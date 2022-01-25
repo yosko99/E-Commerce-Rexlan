@@ -1,6 +1,7 @@
-import Header from './components/screens/partials/Header.component.js';
-import Footer from './components/screens/partials/Footer.component.js';
-import { BrowserRouter as Router } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import Header from './components/partials/Header.component.js';
+import Footer from './components/partials/Footer.component.js';
+import HomeScreen from './components/screens/HomeScreen.js';
 import { Container } from 'react-bootstrap';
 import React from 'react';
 
@@ -10,6 +11,9 @@ function App () {
       <Header />
         <main style={{ minHeight: '80vh' }}>
           <Container>
+            <Routes>
+              <Route path='/' exact element={<HomeScreen />}/>
+            </Routes>
           </Container>
         </main>
       <Footer />

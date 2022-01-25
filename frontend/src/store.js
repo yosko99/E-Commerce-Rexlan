@@ -1,8 +1,11 @@
 import { createStore, combineReducers, applyMiddleware } from 'redux';
+import { carouselListReducer } from './reducers/carouselReducers';
 import { composeWithDevTools } from 'redux-devtools-extension';
 import thunk from 'redux-thunk';
 
-const reducer = combineReducers({});
+const reducer = combineReducers({
+  carouselItems: carouselListReducer
+});
 
 const initialState = {};
 

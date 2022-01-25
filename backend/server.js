@@ -1,4 +1,5 @@
 const [notFound, errorHandler] = require('./middleware/errorMiddleware');
+const carouselRoutes = require('./routes/carouselRoutes');
 const connectDB = require('./config/db.js');
 const express = require('express');
 const cors = require('cors');
@@ -10,6 +11,7 @@ app.use(cors());
 
 connectDB();
 
+app.use('/api/carousel/', carouselRoutes);
 app.use(notFound);
 app.use(errorHandler);
 

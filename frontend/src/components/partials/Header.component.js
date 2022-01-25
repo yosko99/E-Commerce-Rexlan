@@ -31,7 +31,7 @@ const Header = () => {
               <LinkContainer to="/store" className='square border-end'>
                 <Nav.Link>
                   <span><i style={{ color: 'white' }} className="fas fa-map-marker-alt"></i>  </span>
-                  Store locator
+                  Store Locator
                 </Nav.Link>
               </LinkContainer>
               <LinkContainer to="/login" className='square border-end'>
@@ -54,7 +54,7 @@ const Header = () => {
       <Navbar bg="light" className='p-1' expand="lg">
         <Container>
           <LinkContainer to="/">
-            <Navbar.Brand className="d-flex">
+            <Navbar.Brand className="d-flex align-items-center">
               <img src="/logo192.png" className='pe-2' style={{ width: '50px' }}/>
               E-Commerce
             </Navbar.Brand>
