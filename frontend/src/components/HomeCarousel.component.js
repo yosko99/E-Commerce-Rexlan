@@ -31,8 +31,8 @@ const HomeCarousel = () => {
             alt={item.carousel_title}
             />
             <Carousel.Caption>
-              <h5>{item.carousel_title}</h5>
-              <p>{item.carousel_caption}</p>
+              {/* <h5>{item.carousel_title}</h5> */}
+              {/* <p>{item.carousel_caption}</p> */}
             </Carousel.Caption>
           </Carousel.Item>
           ))}

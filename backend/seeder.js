@@ -1,16 +1,20 @@
 const Carousel = require('./models/carouselModel');
+const Product = require('./models/productModel');
 const connectDB = require('./config/db');
 require('dotenv').config();
 
 const carouselItems = require('./data/carousels.json');
+const products = require('./data/products.json');
 
 connectDB();
 
 const importData = async () =>{
     try {
         await Carousel.deleteMany();
+        await Product.deleteMany();
 
         await Carousel.insertMany(carouselItems);
+        await Product.insertMany(products);
 
         console.log('Data imported');
         process.exit();
@@ -23,6 +27,7 @@ const importData = async () =>{
 const destroyData = async () =>{
     try {
         await Carousel.deleteMany();
+        await Product.deleteMany();
 
         console.log('Data destroyed');
         process.exit();
