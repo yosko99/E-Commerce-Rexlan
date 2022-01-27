@@ -2,6 +2,8 @@ const headerProperties = {
   homeBtn: 'Home',
   productsBtn: 'Products',
   clothingBtn: 'Clothing',
+  menClothingBtn: 'Men Clothing',
+  womenClothingBtn: 'Women Clothing',
   jewelryBtn: 'Jewelry',
   accessoriesBtn: 'Accessories',
   storeBtn: 'Store Locator',

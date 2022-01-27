@@ -1,24 +1,10 @@
 import productCardProperties from '../resources/default/productCardProperties';
 import { LinkContainer } from 'react-router-bootstrap';
 import { Card, Image } from 'react-bootstrap';
-import React, { useState } from 'react';
+import React from 'react';
 import PropTypes from 'prop-types';
 
-const ProductCard = ({ product }) => {
-  const defaultImg = product.image_groups[0].images[0].link;
-  const [productImg, setProductImg] = useState(defaultImg);
-  const swatches = product.image_groups.filter((images) => images.view_type === 'swatch');
-
-  const changeImg = (e) => {
-    const variationValue = e.target.id;
-    const newProductImg = product.image_groups.find((image) => image.variation_value === variationValue);
-    if (newProductImg === undefined) {
-      setProductImg(defaultImg);
-    } else {
-      setProductImg(newProductImg.images[0].link);
-    }
-  };
-
+const ProductCard = ({ product, productImg, swatches, changeImg }) => {
   return (
       <div className='d-flex justify-content-center my-2'>
         <Card style={{ width: '18rem' }}>
@@ -48,7 +34,10 @@ const ProductCard = ({ product }) => {
 };
 
 ProductCard.propTypes = {
-  product: PropTypes.object.isRequired
+  product: PropTypes.object.isRequired,
+  productImg: PropTypes.string.isRequired,
+  changeImg: PropTypes.func.isRequired,
+  swatches: PropTypes.array
 };
 
 export default ProductCard;

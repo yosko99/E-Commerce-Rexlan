@@ -3,7 +3,7 @@ import { useDispatch, useSelector } from 'react-redux';
 import { useParams, Navigate } from 'react-router-dom';
 import { Container, Col, Row } from 'react-bootstrap';
 import ProductCard from '../ProductCard.component';
-
+import Product from '../Product.component';
 import Loading from '../Loading.component';
 import React, { useEffect } from 'react';
 
@@ -29,9 +29,9 @@ const ProductsScreen = () => {
                 : error
                   ? <Navigate to={'/404'}/>
                   : products.map((product, index) => (
-                <Col lg={4} md={6} sm={12} key={index + 1}>
-                  <ProductCard product={product} />
-                </Col>
+                    <Col lg={4} md={6} sm={12} key={index + 1}>
+                      <Product product={product} ProductComponent={ProductCard}/>
+                    </Col>
                   ))}
             </Row>
           </Col>

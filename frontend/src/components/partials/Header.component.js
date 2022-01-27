@@ -17,14 +17,11 @@ const Header = () => {
               <LinkContainer to="/">
                 <Nav.Link>{headerProperties.homeBtn}</Nav.Link>
               </LinkContainer>
-              <LinkContainer to="/products">
-                <Nav.Link>{headerProperties.productsBtn}</Nav.Link>
+              <LinkContainer to="/category/mens-clothing">
+                <Nav.Link>{headerProperties.menClothingBtn}</Nav.Link>
               </LinkContainer>
-              <LinkContainer to="/products">
-                <Nav.Link>{headerProperties.clothingBtn}</Nav.Link>
-              </LinkContainer>
-              <LinkContainer to="/products">
-                <Nav.Link>{headerProperties.accessoriesBtn}</Nav.Link>
+              <LinkContainer to="/category/womens-clothing">
+                <Nav.Link>{headerProperties.womenClothingBtn}</Nav.Link>
               </LinkContainer>
             </Nav>
             <Nav>
