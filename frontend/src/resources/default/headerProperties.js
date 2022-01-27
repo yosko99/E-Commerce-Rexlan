@@ -10,8 +10,10 @@ const headerProperties = {
   cartBtn: 'Cart',
   brandBtn: 'E-Commerce',
   searchBtn: 'Search',
-  searchPlaceHolder: 'Search products'
-
+  searchPlaceHolder: 'Search products',
+  menuText: 'Menu',
+  menText: 'Men',
+  womenText: 'Women'
 };
 
 export default headerProperties;
