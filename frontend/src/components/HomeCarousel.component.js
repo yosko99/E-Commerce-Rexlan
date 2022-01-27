@@ -1,5 +1,6 @@
 import { carouselItemsAction } from '../actions/carouselActions';
 import { useDispatch, useSelector } from 'react-redux';
+import { Navigate } from 'react-router-dom';
 import { Carousel } from 'react-bootstrap';
 import Loading from './Loading.component';
 import React, { useEffect } from 'react';
@@ -19,7 +20,7 @@ const HomeCarousel = () => {
       {loading
         ? <Loading />
         : error
-          ? <h3>{error}</h3>
+          ? <Navigate to={'/404'}/>
           : carouselItems.map((item, index) => (
           <Carousel.Item key={index + 1}>
             <img

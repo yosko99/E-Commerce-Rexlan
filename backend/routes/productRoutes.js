@@ -14,10 +14,23 @@ router.get('/', asyncHandler(async (req, res) =>{
     res.status(200).json(products);
 }));
 
+// @desc Fetch products depending on subcategory
+// @route GET /api/products/category/:subcategory
+// @access Public
+router.get('/category/:subcategory', asyncHandler(async (req, res) =>{
+    const subcategory = req.params.subcategory;
+
+    const products = await Product.findOne({id: productID});
+
+    res.status(200).json({
+        products,
+    })
+}));
+
 // @desc Fetch a single product by id
 // @route GET /api/products/:id
 // @access Public
-router.get('/:id', asyncHandler(async (req, res) =>{
+router.get('/id/:id', asyncHandler(async (req, res) =>{
     const productID = req.params.id;
 
     const product = await Product.findOne({id: productID});

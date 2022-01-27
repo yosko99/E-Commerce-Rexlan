@@ -1,7 +1,8 @@
 import { productListAction } from '../actions/productActions';
-import { Image, Col, Row } from 'react-bootstrap';
 import { useDispatch, useSelector } from 'react-redux';
 import { LinkContainer } from 'react-router-bootstrap';
+import { Image, Col, Row } from 'react-bootstrap';
+import { Navigate } from 'react-router-dom';
 import Loading from './Loading.component';
 
 import React, { useEffect } from 'react';
@@ -21,7 +22,7 @@ const ProductImage = () => {
     {loading
       ? <Loading />
       : error
-        ? <h3>{error}</h3>
+        ? <Navigate to={'/404'}/>
         : products.map((product, index) => (
             <Col key={index + 1} lg={2} md={4} sm={6} className='py-2'>
                 <LinkContainer to={'/products/' + product.id} role='button'>

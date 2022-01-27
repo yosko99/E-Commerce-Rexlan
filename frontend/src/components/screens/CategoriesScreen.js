@@ -2,7 +2,7 @@ import { categoryListAction } from '../../actions/categoryActions';
 import { Container, Image, Row, Col } from 'react-bootstrap';
 import { useDispatch, useSelector } from 'react-redux';
 import { LinkContainer } from 'react-router-bootstrap';
-import { useParams } from 'react-router-dom';
+import { useParams, Navigate } from 'react-router-dom';
 import Loading from '../Loading.component';
 import React, { useEffect } from 'react';
 
@@ -22,7 +22,7 @@ const CategoriesScreen = () => {
       {loading === undefined || loading
         ? <Loading />
         : error
-          ? <h3>{error}</h3>
+          ? <Navigate to={'/404'}/>
           : <div className='pt-2'>
               <h4>{categories.page_title}</h4>
               <p>{categories.page_description}</p>
@@ -31,7 +31,7 @@ const CategoriesScreen = () => {
                 {categories.categories.map((category, index) => (
                   <Col key={index + 1} md={12} lg={6} className='my-2'>
                       <p className='mt-3 fs-5'>{category.page_title}</p>
-                      <LinkContainer to={'/products/' + category.id} role='button'>
+                      <LinkContainer to={'/products/category/' + category.id} role='button'>
                         <Image fluid src={'/images/' + category.image} alt={category.id} />
                       </LinkContainer>
                     </Col>
