@@ -1,7 +1,9 @@
 import { productListAction } from '../actions/productActions';
-import { Spinner, Image, Col, Row } from 'react-bootstrap';
+import { Image, Col, Row } from 'react-bootstrap';
 import { useDispatch, useSelector } from 'react-redux';
 import { LinkContainer } from 'react-router-bootstrap';
+import Loading from './Loading.component';
+
 import React, { useEffect } from 'react';
 
 const ProductImage = () => {
@@ -17,11 +19,7 @@ const ProductImage = () => {
   return (
     <Row className='mb-5'>
     {loading
-      ? <div className='d-flex justify-content-center align-items-center' style={{ height: '50vh' }}>
-    <Spinner animation="border" role="status">
-        <span className="visually-hidden">Loading...</span>
-    </Spinner>
-    </div>
+      ? <Loading />
       : error
         ? <h3>{error}</h3>
         : products.map((product, index) => (

@@ -1,3 +1,4 @@
+import homeProperties from '../../resources/default/screens/homeProperties.js';
 import { Col, Row, Image, Button, Container } from 'react-bootstrap';
 import ProductImage from '../ProductImage.component.js';
 import { LinkContainer } from 'react-router-bootstrap';
@@ -12,11 +13,11 @@ const HomeScreen = () => {
 
         {/* Stay inspired */}
         <div className='text-center py-5'>
-          <p className='fs-5'>Stay inspired with our collections this week</p>
+          <p className='fs-5'>{homeProperties.stayInspiredTitle}</p>
           <hr className='bg-success w-25 m-auto my-3' />
           <Row>
             <Col lg={3}></Col>
-            <Col><p>Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram anteposuerit litterarum</p></Col>
+            <Col><p>{homeProperties.stayInspiredCaption}</p></Col>
             <Col lg={3}></Col>
           </Row>
         </div>
@@ -53,11 +54,11 @@ const HomeScreen = () => {
 
         {/* New arrivals */}
         <div className='text-center py-5'>
-          <p className='fs-5'>New Arrivals</p>
+          <p className='fs-5'>{homeProperties.newArrivalsTitle}</p>
           <hr className='bg-success w-25 m-auto my-3' />
           <Row>
             <Col lg={3}></Col>
-            <Col><p>Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica</p></Col>
+            <Col><p>{homeProperties.newArrivalsCaption}</p></Col>
             <Col lg={3}></Col>
           </Row>
         </div>
@@ -70,10 +71,10 @@ const HomeScreen = () => {
         <Container>
           <Row className=''>
             <Col md={6} className='d-flex justify-content-center flex-column text-left'>
-              <h4>Weekly promotions</h4>
+              <h4>{homeProperties.weeklyPromotionsTitle}</h4>
               <hr className='bg-success w-100'/>
-              <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit.</p>
-              <Button className='text-uppercase btn-dark w-50'>View Promotions</Button>
+              <p>{homeProperties.weeklyPromotionsCaption}</p>
+              <Button className='text-uppercase btn-dark w-50'>{homeProperties.viewPromotionsBtn}</Button>
             </Col>
             <Col md={6}>
               <Image className='mb-4 pt-4' fluid src="./images/frontPage/weekly-promotions.webp" alt='Sitting woman'/>

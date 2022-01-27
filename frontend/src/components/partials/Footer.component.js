@@ -1,3 +1,4 @@
+import footerProperties from '../../resources/default/footerProperties';
 import { Link } from 'react-router-dom';
 import React from 'react';
 
@@ -28,7 +29,7 @@ const Footer = () => {
         </div>
 
         <div className="text-center p-3" style={{ backgroundColor: 'black' }}>
-            <Link style={{ textDecoration: 'none' }} className="text-white ps-2" to="/" >© 2022 Copyright: Rexlan E-commerce</Link>
+            <Link style={{ textDecoration: 'none' }} className="text-white ps-2" to="/" >{footerProperties.copyright}</Link>
         </div>
     </footer>
   );

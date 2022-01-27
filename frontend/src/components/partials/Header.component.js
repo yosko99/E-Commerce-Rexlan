@@ -1,4 +1,5 @@
 import { Navbar, Container, Nav, NavDropdown, Form, FormControl, Button } from 'react-bootstrap';
+import headerProperties from '../../resources/default/headerProperties';
 import { LinkContainer } from 'react-router-bootstrap';
 import React from 'react';
 
@@ -14,35 +15,35 @@ const Header = () => {
               navbarScroll
             >
               <LinkContainer to="/">
-                <Nav.Link>Home</Nav.Link>
+                <Nav.Link>{headerProperties.homeBtn}</Nav.Link>
               </LinkContainer>
               <LinkContainer to="/products">
-                <Nav.Link>Products</Nav.Link>
+                <Nav.Link>{headerProperties.productsBtn}</Nav.Link>
               </LinkContainer>
               <LinkContainer to="/products">
-                <Nav.Link>Clothing</Nav.Link>
+                <Nav.Link>{headerProperties.clothingBtn}</Nav.Link>
               </LinkContainer>
               <LinkContainer to="/products">
-                <Nav.Link>Accessories</Nav.Link>
+                <Nav.Link>{headerProperties.accessoriesBtn}</Nav.Link>
               </LinkContainer>
             </Nav>
             <Nav>
               <LinkContainer to="/store" className='square border-end'>
                 <Nav.Link>
                   <span><i style={{ color: 'white' }} className="fas fa-map-marker-alt"></i>  </span>
-                  Store Locator
+                  {headerProperties.storeBtn}
                 </Nav.Link>
               </LinkContainer>
               <LinkContainer to="/login" className='square border-end'>
-                <Nav.Link>Login</Nav.Link>
+                <Nav.Link>{headerProperties.loginBtn}</Nav.Link>
               </LinkContainer>
               <LinkContainer to="/order-status" className='square border-end'>
-                <Nav.Link>Order status</Nav.Link>
+                <Nav.Link>{headerProperties.orderStatusBtn}</Nav.Link>
               </LinkContainer>
               <LinkContainer to="/cart">
                 <Nav.Link>
                   <span><i style={{ color: 'white' }} className="fas fa-shopping-cart"></i>  </span>
-                  Cart
+                  {headerProperties.cartBtn}
                 </Nav.Link>
               </LinkContainer>
             </Nav>
@@ -55,7 +56,7 @@ const Header = () => {
           <LinkContainer to="/">
             <Navbar.Brand className="d-flex align-items-center">
               <img src="/logo192.png" className='pe-2' style={{ width: '50px' }}/>
-              E-Commerce
+              {headerProperties.brandBtn}
             </Navbar.Brand>
           </LinkContainer>
           <Navbar.Toggle aria-controls="secondNav" />
@@ -67,32 +68,32 @@ const Header = () => {
             >
               <NavDropdown title="Men" id="menCategories">
                 <LinkContainer to="/category/mens-clothing">
-                  <NavDropdown.Item>Clothing</NavDropdown.Item>
+                  <NavDropdown.Item>{headerProperties.clothingBtn}</NavDropdown.Item>
                 </LinkContainer>
                 <LinkContainer to="/category/mens-accessories">
-                  <NavDropdown.Item>Accessories</NavDropdown.Item>
+                  <NavDropdown.Item>{headerProperties.accessoriesBtn}</NavDropdown.Item>
                 </LinkContainer>
               </NavDropdown>
               <NavDropdown title="Women" id="womenCategories">
                 <LinkContainer to="/category/womens-clothing">
-                  <NavDropdown.Item>Clothing</NavDropdown.Item>
+                  <NavDropdown.Item>{headerProperties.clothingBtn}</NavDropdown.Item>
                 </LinkContainer>
                 <LinkContainer to="/category/women-jewelry">
-                  <NavDropdown.Item>Jewelry</NavDropdown.Item>
+                  <NavDropdown.Item>{headerProperties.jewelryBtn}</NavDropdown.Item>
                 </LinkContainer>
                 <LinkContainer to="/category/women-accessories">
-                  <NavDropdown.Item>Accessories</NavDropdown.Item>
+                  <NavDropdown.Item>{headerProperties.accessoriesBtn}</NavDropdown.Item>
                 </LinkContainer>
               </NavDropdown>
             </Nav>
             <Form className="d-flex">
               <FormControl
                 type="search"
-                placeholder="Search products"
+                placeholder={headerProperties.searchPlaceHolder}
                 className="me-2"
                 aria-label="Search"
               />
-              <Button variant="outline-success">Search</Button>
+              <Button variant="outline-success">{headerProperties.searchBtn}</Button>
             </Form>
           </Navbar.Collapse>
         </Container>

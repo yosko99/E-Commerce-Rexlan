@@ -1,6 +1,7 @@
 import { carouselItemsAction } from '../actions/carouselActions';
 import { useDispatch, useSelector } from 'react-redux';
-import { Carousel, Spinner } from 'react-bootstrap';
+import { Carousel } from 'react-bootstrap';
+import Loading from './Loading.component';
 import React, { useEffect } from 'react';
 
 const HomeCarousel = () => {
@@ -16,11 +17,7 @@ const HomeCarousel = () => {
   return (
     <Carousel className='pt-2'>
       {loading
-        ? <div className='d-flex justify-content-center align-items-center' style={{ height: '50vh' }}>
-          <Spinner animation="border" role="status">
-            <span className="visually-hidden">Loading...</span>
-          </Spinner>
-      </div>
+        ? <Loading />
         : error
           ? <h3>{error}</h3>
           : carouselItems.map((item, index) => (
