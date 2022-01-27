@@ -88,7 +88,7 @@
     "price": 140,
     "masterold_id": "86736845"
   },
-  "primary_categoryold_id": "mens-clothing-shorts",
+  "primary_category_id": "mens-clothing-shorts",
   "image_groups": [
     {
       "images": [
@@ -567,7 +567,7 @@
     "price": 155,
     "masterold_id": "54736828"
   },
-  "primary_categoryold_id": "mens-clothing-shorts",
+  "primary_category_id": "mens-clothing-shorts",
   "image_groups": [
     {
       "images": [
@@ -852,7 +852,7 @@
     "price": 475,
     "masterold_id": "21736758"
   },
-  "primary_categoryold_id": "mens-clothing-jackets",
+  "primary_category_id": "mens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -1122,7 +1122,7 @@
     "price": 299.99,
     "masterold_id": "25604524"
   },
-  "primary_categoryold_id": "mens-clothing-suits",
+  "primary_category_id": "mens-clothing-suits",
   "image_groups": [
     {
       "images": [
@@ -1502,7 +1502,7 @@
     "price": 195,
     "masterold_id": "34536828"
   },
-  "primary_categoryold_id": "mens-clothing-pants",
+  "primary_category_id": "mens-clothing-pants",
   "image_groups": [
     {
       "images": [
@@ -1792,7 +1792,7 @@
     "price": 130,
     "masterold_id": "69309284"
   },
-  "primary_categoryold_id": "mens-clothing-dress-shirts",
+  "primary_category_id": "mens-clothing-dress-shirts",
   "image_groups": [
     {
       "images": [
@@ -2007,7 +2007,7 @@
     "price": 175,
     "masterold_id": "82516743"
   },
-  "primary_categoryold_id": "mens-clothing-pants",
+  "primary_category_id": "mens-clothing-pants",
   "image_groups": [
     {
       "images": [
@@ -2397,7 +2397,7 @@
     "price": 299.99,
     "masterold_id": "25686571"
   },
-  "primary_categoryold_id": "mens-clothing-suits",
+  "primary_category_id": "mens-clothing-suits",
   "image_groups": [
     {
       "images": [
@@ -2762,7 +2762,7 @@
     "price": 495,
     "masterold_id": "82936941"
   },
-  "primary_categoryold_id": "mens-clothing-jackets",
+  "primary_category_id": "mens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -3066,7 +3066,7 @@
     "price": 50,
     "masterold_id": "91736743"
   },
-  "primary_categoryold_id": "mens-clothing-pants",
+  "primary_category_id": "mens-clothing-pants",
   "image_groups": [
     {
       "images": [
@@ -3380,7 +3380,7 @@
     "price": 475,
     "masterold_id": "34736758"
   },
-  "primary_categoryold_id": "mens-clothing-jackets",
+  "primary_category_id": "mens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -3743,7 +3743,7 @@
     "price": 299.99,
     "masterold_id": "25686364"
   },
-  "primary_categoryold_id": "mens-clothing-suits",
+  "primary_category_id": "mens-clothing-suits",
   "image_groups": [
     {
       "images": [
@@ -4134,7 +4134,7 @@
     "price": 299.99,
     "masterold_id": "25686514"
   },
-  "primary_categoryold_id": "mens-clothing-suits",
+  "primary_category_id": "mens-clothing-suits",
   "image_groups": [
     {
       "images": [
@@ -4525,7 +4525,7 @@
     "price": 299.99,
     "masterold_id": "25686544"
   },
-  "primary_categoryold_id": "mens-clothing-suits",
+  "primary_category_id": "mens-clothing-suits",
   "image_groups": [
     {
       "images": [
@@ -4905,7 +4905,7 @@
     "price": 195,
     "masterold_id": "73910532"
   },
-  "primary_categoryold_id": "mens-clothing-pants",
+  "primary_category_id": "mens-clothing-pants",
   "image_groups": [
     {
       "images": [
@@ -5836,7 +5836,7 @@
     "price": 155,
     "masterold_id": "83536828"
   },
-  "primary_categoryold_id": "mens-clothing-shorts",
+  "primary_category_id": "mens-clothing-shorts",
   "image_groups": [
     {
       "images": [
@@ -6172,7 +6172,7 @@
     "price": 99.99,
     "masterold_id": "TG250"
   },
-  "primary_categoryold_id": "mens-accessories-gloves",
+  "primary_category_id": "mens-accessories-gloves",
   "image_groups": [
     {
       "images": [
@@ -6407,7 +6407,7 @@
     "price": 99.99,
     "masterold_id": "TG508"
   },
-  "primary_categoryold_id": "mens-accessories-gloves",
+  "primary_category_id": "mens-accessories-gloves",
   "image_groups": [
     {
       "images": [
@@ -6559,7 +6559,7 @@
     "price": 155,
     "masterold_id": "56736828"
   },
-  "primary_categoryold_id": "mens-clothing-shorts",
+  "primary_category_id": "mens-clothing-shorts",
   "image_groups": [
     {
       "images": [
@@ -6948,7 +6948,7 @@
     "price": 195,
     "masterold_id": "86736887"
   },
-  "primary_categoryold_id": "mens-clothing-pants",
+  "primary_category_id": "mens-clothing-pants",
   "image_groups": [
     {
       "images": [
@@ -7278,7 +7278,7 @@
     "price": 195,
     "masterold_id": "12416789"
   },
-  "primary_categoryold_id": "mens-clothing-pants",
+  "primary_category_id": "mens-clothing-pants",
   "image_groups": [
     {
       "images": [
@@ -7578,7 +7578,7 @@
     "price": 29.99,
     "masterold_id": "25752986"
   },
-  "primary_categoryold_id": "mens-accessories-ties",
+  "primary_category_id": "mens-accessories-ties",
   "image_groups": [
     {
       "images": [
@@ -7866,7 +7866,7 @@
   "name": "Men's Leather Luggage Fisherman Bag",
   "c_isNewtest": true,
   "c_tabDetails": "Premium textured leather with a rugged effect|Antique silver hardware finishing|Cotton lining|Large inside zipper pocket|Belt-style shoulder strap",
-  "primary_categoryold_id": "mens-accessories-luggage",
+  "primary_category_id": "mens-accessories-luggage",
   "image_groups": [
     {
       "images": [
@@ -8118,7 +8118,7 @@
     "price": 175,
     "masterold_id": "22416787"
   },
-  "primary_categoryold_id": "mens-clothing-pants",
+  "primary_category_id": "mens-clothing-pants",
   "image_groups": [
     {
       "images": [
@@ -8395,7 +8395,7 @@
     "price": 95,
     "masterold_id": "TG720"
   },
-  "primary_categoryold_id": "mens-accessories-gloves",
+  "primary_category_id": "mens-accessories-gloves",
   "image_groups": [
     {
       "images": [
@@ -8594,7 +8594,7 @@
     "price": 195,
     "masterold_id": "32416783"
   },
-  "primary_categoryold_id": "mens-clothing-pants",
+  "primary_category_id": "mens-clothing-pants",
   "image_groups": [
     {
       "images": [
@@ -8893,7 +8893,7 @@
     "price": 135,
     "masterold_id": "74974310"
   },
-  "primary_categoryold_id": "mens-clothing-dress-shirts",
+  "primary_category_id": "mens-clothing-dress-shirts",
   "image_groups": [
     {
       "images": [
@@ -9139,7 +9139,7 @@
     "price": 195,
     "masterold_id": "42946931"
   },
-  "primary_categoryold_id": "mens-clothing-pants",
+  "primary_category_id": "mens-clothing-pants",
   "image_groups": [
     {
       "images": [
@@ -9565,7 +9565,7 @@
     "price": 49.99,
     "masterold_id": "25604455"
   },
-  "primary_categoryold_id": "mens-clothing-dress-shirts",
+  "primary_category_id": "mens-clothing-dress-shirts",
   "image_groups": [
     {
       "images": [
@@ -10121,7 +10121,7 @@
   "c_tabDetails": "1682 ballistic nylon and genuine leather inserts|Shoulder strap and top handle for alternative carrying options|Main compartment for laptop storage|Internal pockets for storage and organisation|TSA Lock for security",
   "id": "P0138",
   "currency": "USD",
-  "primary_categoryold_id": "mens-accessories-luggage",
+  "primary_category_id": "mens-accessories-luggage",
   "image_groups": [
     {
       "images": [
@@ -10222,7 +10222,7 @@
     "price": 119.99,
     "masterold_id": "TG786"
   },
-  "primary_categoryold_id": "mens-accessories-gloves",
+  "primary_category_id": "mens-accessories-gloves",
   "image_groups": [
     {
       "images": [
@@ -10427,7 +10427,7 @@
     "price": 185,
     "masterold_id": "44736828"
   },
-  "primary_categoryold_id": "mens-clothing-pants",
+  "primary_category_id": "mens-clothing-pants",
   "image_groups": [
     {
       "images": [
@@ -10891,7 +10891,7 @@
     "price": 295,
     "masterold_id": "62516752"
   },
-  "primary_categoryold_id": "mens-clothing-jackets",
+  "primary_category_id": "mens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -11193,7 +11193,7 @@
     "price": 135,
     "masterold_id": "78916783"
   },
-  "primary_categoryold_id": "mens-clothing-dress-shirts",
+  "primary_category_id": "mens-clothing-dress-shirts",
   "image_groups": [
     {
       "images": [
@@ -11409,7 +11409,7 @@
     "price": 195,
     "masterold_id": "73910432"
   },
-  "primary_categoryold_id": "mens-clothing-pants",
+  "primary_category_id": "mens-clothing-pants",
   "image_groups": [
     {
       "images": [
@@ -12215,7 +12215,7 @@
     "price": 225,
     "masterold_id": "82916781"
   },
-  "primary_categoryold_id": "mens-clothing-pants",
+  "primary_category_id": "mens-clothing-pants",
   "image_groups": [
     {
       "images": [
@@ -12618,7 +12618,7 @@
     "price": 29.99,
     "masterold_id": "25752235"
   },
-  "primary_categoryold_id": "mens-accessories-ties",
+  "primary_category_id": "mens-accessories-ties",
   "image_groups": [
     {
       "images": [
@@ -12927,7 +12927,7 @@
   "c_tabDetails": "1682 ballistic nylon and genuine leather inserts| Spacious main storage compartment for documents and binders|Removable, padded laptop sleeve with D-rings for carrying with shoulder strap|Change handle system and cantilever wheels|Zip pull in gunmetal with black rubber insert Leather “comfort” insert detailed handle|Internal storage pockets for CD-Rom and peripherals|Real leather inserts",
   "id": "P0048",
   "currency": "USD",
-  "primary_categoryold_id": "mens-accessories-luggage",
+  "primary_category_id": "mens-accessories-luggage",
   "image_groups": [
     {
       "images": [
@@ -12980,7 +12980,7 @@
   "c_tabDetails": "1682 ballistic nylon and genuine leather inserts |Pull-out metallic handle for wheeling|Top and side handles|Cabin size for convenient travelling|TSA lock for security",
   "id": "P0150",
   "currency": "USD",
-  "primary_categoryold_id": "mens-accessories-luggage",
+  "primary_category_id": "mens-accessories-luggage",
   "image_groups": [
     {
       "images": [
@@ -13091,7 +13091,7 @@
     "price": 315,
     "masterold_id": "11736753"
   },
-  "primary_categoryold_id": "mens-clothing-jackets",
+  "primary_category_id": "mens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -13360,7 +13360,7 @@
     "price": 29.99,
     "masterold_id": "25752981"
   },
-  "primary_categoryold_id": "mens-accessories-ties",
+  "primary_category_id": "mens-accessories-ties",
   "image_groups": [
     {
       "images": [
@@ -13568,7 +13568,7 @@
     "price": 165,
     "masterold_id": "72516759"
   },
-  "primary_categoryold_id": "mens-clothing-shorts",
+  "primary_category_id": "mens-clothing-shorts",
   "image_groups": [
     {
       "images": [
@@ -13898,7 +13898,7 @@
     "price": 175,
     "masterold_id": "52416781"
   },
-  "primary_categoryold_id": "mens-clothing-pants",
+  "primary_category_id": "mens-clothing-pants",
   "image_groups": [
     {
       "images": [
@@ -14206,7 +14206,7 @@
     "price": 135,
     "masterold_id": "25585429"
   },
-  "primary_categoryold_id": "mens-clothing-dress-shirts",
+  "primary_category_id": "mens-clothing-dress-shirts",
   "image_groups": [
     {
       "images": [
@@ -14470,7 +14470,7 @@
     "price": 29.99,
     "masterold_id": "25752218"
   },
-  "primary_categoryold_id": "mens-accessories-ties",
+  "primary_category_id": "mens-accessories-ties",
   "image_groups": [
     {
       "images": [
@@ -14822,7 +14822,7 @@
     "price": 195,
     "masterold_id": "42416786"
   },
-  "primary_categoryold_id": "mens-clothing-pants",
+  "primary_category_id": "mens-clothing-pants",
   "image_groups": [
     {
       "images": [
@@ -15375,7 +15375,7 @@
     "price": 99.99,
     "masterold_id": "TG733"
   },
-  "primary_categoryold_id": "mens-accessories-gloves",
+  "primary_category_id": "mens-accessories-gloves",
   "image_groups": [
     {
       "images": [
@@ -15558,7 +15558,7 @@
     "price": 299.99,
     "masterold_id": "25686395"
   },
-  "primary_categoryold_id": "mens-clothing-suits",
+  "primary_category_id": "mens-clothing-suits",
   "image_groups": [
     {
       "images": [
@@ -15859,7 +15859,7 @@
     "price": 195,
     "masterold_id": "66936828"
   },
-  "primary_categoryold_id": "mens-clothing-pants",
+  "primary_category_id": "mens-clothing-pants",
   "image_groups": [
     {
       "images": [
@@ -16189,7 +16189,7 @@
     "price": 64,
     "masterold_id": "25565189"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -16400,7 +16400,7 @@
     "price": 69,
     "masterold_id": "25565982"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -16630,7 +16630,7 @@
     "price": 73.99,
     "masterold_id": "25591295"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -16888,7 +16888,7 @@
     "price": 47.99,
     "masterold_id": "25564782"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -17273,7 +17273,7 @@
     "price": 69,
     "masterold_id": "25564454"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -17510,7 +17510,7 @@
     "price": 58.99,
     "masterold_id": "25589208"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -17730,7 +17730,7 @@
     "price": 163.99,
     "masterold_id": "25589048"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -17982,7 +17982,7 @@
     "price": 61.99,
     "masterold_id": "25484265"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -18183,7 +18183,7 @@
     "price": 49,
     "masterold_id": "25564588"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -18435,7 +18435,7 @@
     "price": 79,
     "masterold_id": "25589266"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -18741,7 +18741,7 @@
     "price": 69,
     "masterold_id": "25593485"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -19062,7 +19062,7 @@
     "price": 39.99,
     "masterold_id": "25518241"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -19619,7 +19619,7 @@
     "price": 47.99,
     "masterold_id": "25518769"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -19866,7 +19866,7 @@
     "price": 155.99,
     "masterold_id": "25589100"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -20119,7 +20119,7 @@
     "price": 99,
     "masterold_id": "25553387"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -20412,7 +20412,7 @@
     "price": 14.99,
     "masterold_id": "25518300"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -20835,7 +20835,7 @@
     "price": 46.99,
     "masterold_id": "25502692"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -21041,7 +21041,7 @@
     "price": 40.99,
     "masterold_id": "25518823"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -21257,7 +21257,7 @@
     "price": 49,
     "masterold_id": "25565225"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -21578,7 +21578,7 @@
     "price": 89,
     "masterold_id": "25697682"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -21894,7 +21894,7 @@
     "price": 75.99,
     "masterold_id": "25493624"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -22148,7 +22148,7 @@
     "price": 47.99,
     "masterold_id": "25564828"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -22390,7 +22390,7 @@
     "price": 58.99,
     "masterold_id": "25589173"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -22616,7 +22616,7 @@
     "price": 68.99,
     "masterold_id": "25591026"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -22849,7 +22849,7 @@
     "price": 96.99,
     "masterold_id": "25503045"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -23060,7 +23060,7 @@
     "price": 39,
     "masterold_id": "25565064"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -23274,7 +23274,7 @@
     "price": 73.99,
     "masterold_id": "25589233"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -23510,7 +23510,7 @@
     "price": 59,
     "masterold_id": "25688209"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -23880,7 +23880,7 @@
     "price": 109,
     "masterold_id": "25696622"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -24118,7 +24118,7 @@
     "price": 69,
     "masterold_id": "25565088"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -24314,7 +24314,7 @@
     "price": 69,
     "masterold_id": "25592150"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -24519,7 +24519,7 @@
     "price": 79,
     "masterold_id": "25592295"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -24739,7 +24739,7 @@
     "price": 128,
     "masterold_id": "25592211"
   },
-  "primary_categoryold_id": "womens-clothing-dresses",
+  "primary_category_id": "womens-clothing-dresses",
   "image_groups": [
     {
       "images": [
@@ -24997,7 +24997,7 @@
     "price": 74,
     "masterold_id": "25592300"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -25260,7 +25260,7 @@
     "price": 49,
     "masterold_id": "25592309"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -25509,7 +25509,7 @@
     "price": 54.99,
     "masterold_id": "25501785"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -25763,7 +25763,7 @@
     "price": 168,
     "masterold_id": "25503603"
   },
-  "primary_categoryold_id": "womens-clothing-dresses",
+  "primary_category_id": "womens-clothing-dresses",
   "image_groups": [
     {
       "images": [
@@ -25996,7 +25996,7 @@
     "price": 61.99,
     "masterold_id": "25591195"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -26201,7 +26201,7 @@
     "price": 103.99,
     "masterold_id": "25591222"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -26422,7 +26422,7 @@
     "price": 69,
     "masterold_id": "25565723"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -26654,7 +26654,7 @@
     "price": 74,
     "masterold_id": "25592343"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -26864,7 +26864,7 @@
     "price": 89,
     "masterold_id": "25565127"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -27104,7 +27104,7 @@
     "price": 80.99,
     "masterold_id": "25591241"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -27351,7 +27351,7 @@
     "price": 65.99,
     "masterold_id": "25502072"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -27604,7 +27604,7 @@
     "price": 73.99,
     "masterold_id": "25502097"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -27852,7 +27852,7 @@
     "price": 74,
     "masterold_id": "25593071"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -28040,7 +28040,7 @@
     "price": 74,
     "masterold_id": "25697530"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -28219,7 +28219,7 @@
     "price": 22,
     "masterold_id": "25599653"
   },
-  "primary_categoryold_id": "womens-jewelry-earrings",
+  "primary_category_id": "womens-jewelry-earrings",
   "image_groups": [
     {
       "images": [
@@ -28382,7 +28382,7 @@
     "price": 95.99,
     "masterold_id": "25628995"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -28534,7 +28534,7 @@
     "price": 40,
     "masterold_id": "25695191"
   },
-  "primary_categoryold_id": "womens-jewelry-necklaces",
+  "primary_category_id": "womens-jewelry-necklaces",
   "image_groups": [
     {
       "images": [
@@ -28696,7 +28696,7 @@
     "price": 75,
     "masterold_id": "22962004"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -28934,7 +28934,7 @@
     "price": 99,
     "masterold_id": "25697699"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -29154,7 +29154,7 @@
     "price": 118,
     "masterold_id": "25795715"
   },
-  "primary_categoryold_id": "womens-clothing-dresses",
+  "primary_category_id": "womens-clothing-dresses",
   "image_groups": [
     {
       "images": [
@@ -29369,7 +29369,7 @@
     "price": 99,
     "masterold_id": "25791388"
   },
-  "primary_categoryold_id": "womens-accessories-shoes",
+  "primary_category_id": "womens-accessories-shoes",
   "image_groups": [
     {
       "images": [
@@ -29602,7 +29602,7 @@
     "price": 36,
     "masterold_id": "25720078"
   },
-  "primary_categoryold_id": "womens-jewelry-necklaces",
+  "primary_category_id": "womens-jewelry-necklaces",
   "image_groups": [
     {
       "images": [
@@ -29755,7 +29755,7 @@
     "price": 64,
     "masterold_id": "25697739"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -29980,7 +29980,7 @@
     "price": 129,
     "masterold_id": "25592581"
   },
-  "primary_categoryold_id": "womens-clothing-dresses",
+  "primary_category_id": "womens-clothing-dresses",
   "image_groups": [
     {
       "images": [
@@ -30209,7 +30209,7 @@
     "price": 42,
     "masterold_id": "25593363"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -30415,7 +30415,7 @@
     "price": 69,
     "masterold_id": "25695436"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -30641,7 +30641,7 @@
     "price": 69,
     "masterold_id": "25695392"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -30888,7 +30888,7 @@
     "price": 54.99,
     "masterold_id": "25592770"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -31121,7 +31121,7 @@
     "price": 79,
     "masterold_id": "25697161"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -31352,7 +31352,7 @@
     "price": 39,
     "masterold_id": "25688146"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -31591,7 +31591,7 @@
     "price": 79,
     "masterold_id": "25688325"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -31838,7 +31838,7 @@
     "price": 179,
     "masterold_id": "25696540"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -32075,7 +32075,7 @@
     "price": 80.99,
     "masterold_id": "25688418"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -32281,7 +32281,7 @@
     "price": 79,
     "masterold_id": "25697373"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -32486,7 +32486,7 @@
     "price": 69,
     "masterold_id": "25592403"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -32706,7 +32706,7 @@
     "price": 189,
     "masterold_id": "25589545"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -32912,7 +32912,7 @@
     "price": 50.99,
     "masterold_id": "25518360"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -33119,7 +33119,7 @@
     "price": 110.99,
     "masterold_id": "25518447"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -33346,7 +33346,7 @@
     "price": 68.99,
     "masterold_id": "25518397"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -33569,7 +33569,7 @@
     "price": 47.99,
     "masterold_id": "25518519"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -33814,7 +33814,7 @@
     "price": 69,
     "masterold_id": "25517766"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -34200,7 +34200,7 @@
     "price": 47.99,
     "masterold_id": "25564426"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -34415,7 +34415,7 @@
     "price": 30,
     "masterold_id": "25565339"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -34655,7 +34655,7 @@
     "price": 84.99,
     "masterold_id": "25588935"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -34866,7 +34866,7 @@
     "price": 185.99,
     "masterold_id": "25588985"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -35098,7 +35098,7 @@
     "price": 74,
     "masterold_id": "25589597"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -35308,7 +35308,7 @@
     "price": 39,
     "masterold_id": "25565355"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -35538,7 +35538,7 @@
     "price": 47.99,
     "masterold_id": "25564431"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -35786,7 +35786,7 @@
     "price": 70.99,
     "masterold_id": "25502521"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -36028,7 +36028,7 @@
     "price": 39,
     "masterold_id": "25565826"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -36328,7 +36328,7 @@
     "price": 99,
     "masterold_id": "25592378"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -36543,7 +36543,7 @@
     "price": 28.99,
     "masterold_id": "25518101"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -36843,7 +36843,7 @@
     "price": 65.99,
     "masterold_id": "25591535"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -37048,7 +37048,7 @@
     "price": 43.99,
     "masterold_id": "25564740"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -37279,7 +37279,7 @@
     "price": 75.99,
     "masterold_id": "25493602"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -37517,7 +37517,7 @@
     "price": 69,
     "masterold_id": "25565486"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -37756,7 +37756,7 @@
     "price": 43.99,
     "masterold_id": "25589165"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -37984,7 +37984,7 @@
     "price": 99,
     "masterold_id": "25592408"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -38276,7 +38276,7 @@
     "price": 69,
     "masterold_id": "25589371"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -38597,7 +38597,7 @@
     "price": 50.99,
     "masterold_id": "25591090"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -38850,7 +38850,7 @@
     "price": 59,
     "masterold_id": "25591979"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -39078,7 +39078,7 @@
     "price": 40.99,
     "masterold_id": "25493728"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -39257,7 +39257,7 @@
     "price": 38,
     "masterold_id": "25720020"
   },
-  "primary_categoryold_id": "womens-jewelry-necklaces",
+  "primary_category_id": "womens-jewelry-necklaces",
   "image_groups": [
     {
       "images": [
@@ -39419,7 +39419,7 @@
     "price": 103.99,
     "masterold_id": "25589481"
   },
-  "primary_categoryold_id": "womens-clothing-dresses",
+  "primary_category_id": "womens-clothing-dresses",
   "image_groups": [
     {
       "images": [
@@ -39656,7 +39656,7 @@
     "price": 49,
     "masterold_id": "25721034"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -39956,7 +39956,7 @@
     "price": 79,
     "masterold_id": "25592373"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -40135,7 +40135,7 @@
     "price": 40,
     "masterold_id": "25599649"
   },
-  "primary_categoryold_id": "womens-jewelry-necklaces",
+  "primary_category_id": "womens-jewelry-necklaces",
   "image_groups": [
     {
       "images": [
@@ -40303,7 +40303,7 @@
     "price": 114,
     "masterold_id": "25589508"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -40532,7 +40532,7 @@
     "price": 54.99,
     "masterold_id": "25688507"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -40771,7 +40771,7 @@
     "price": 74,
     "masterold_id": "25688482"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -41031,7 +41031,7 @@
     "price": 45,
     "masterold_id": "22956726"
   },
-  "primary_categoryold_id": "womens-clothing-dresses",
+  "primary_category_id": "womens-clothing-dresses",
   "image_groups": [
     {
       "images": [
@@ -41280,7 +41280,7 @@
     "price": 149,
     "masterold_id": "25696701"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -41528,7 +41528,7 @@
     "price": 74,
     "masterold_id": "25696709"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -41715,7 +41715,7 @@
   "price": 36,
   "id": "fall-look",
   "currency": "USD",
-  "primary_categoryold_id": "womens-outfits",
+  "primary_category_id": "womens-outfits",
   "image_groups": [
     {
       "images": [
@@ -41821,7 +41821,7 @@
     "price": 229,
     "masterold_id": "25696816"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -42053,7 +42053,7 @@
     "price": 119,
     "masterold_id": "25593254"
   },
-  "primary_categoryold_id": "womens-clothing-dresses",
+  "primary_category_id": "womens-clothing-dresses",
   "image_groups": [
     {
       "images": [
@@ -42213,7 +42213,7 @@
   "price": 69,
   "id": "winter-look",
   "currency": "USD",
-  "primary_categoryold_id": "womens-outfits",
+  "primary_category_id": "womens-outfits",
   "image_groups": [
     {
       "images": [
@@ -42305,7 +42305,7 @@
     "price": 50,
     "masterold_id": "25642436"
   },
-  "primary_categoryold_id": "womens-clothing-dresses",
+  "primary_category_id": "womens-clothing-dresses",
   "image_groups": [
     {
       "images": [
@@ -42526,7 +42526,7 @@
     "price": 129,
     "masterold_id": "25593355"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -42773,7 +42773,7 @@
     "price": 44,
     "masterold_id": "25593380"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -42993,7 +42993,7 @@
     "price": 138,
     "masterold_id": "25720424"
   },
-  "primary_categoryold_id": "womens-clothing-dresses",
+  "primary_category_id": "womens-clothing-dresses",
   "image_groups": [
     {
       "images": [
@@ -43225,7 +43225,7 @@
     "price": 89,
     "masterold_id": "25592648"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -43431,7 +43431,7 @@
     "price": 79,
     "masterold_id": "25697156"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -43652,7 +43652,7 @@
     "price": 138,
     "masterold_id": "25744206"
   },
-  "primary_categoryold_id": "womens-clothing-dresses",
+  "primary_category_id": "womens-clothing-dresses",
   "image_groups": [
     {
       "images": [
@@ -43899,7 +43899,7 @@
     "price": 128,
     "masterold_id": "25593800"
   },
-  "primary_categoryold_id": "womens-clothing-dresses",
+  "primary_category_id": "womens-clothing-dresses",
   "image_groups": [
     {
       "images": [
@@ -44147,7 +44147,7 @@
     "price": 124,
     "masterold_id": "25592802"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -44353,7 +44353,7 @@
     "price": 26,
     "masterold_id": "25720027"
   },
-  "primary_categoryold_id": "womens-jewelry-earrings",
+  "primary_category_id": "womens-jewelry-earrings",
   "image_groups": [
     {
       "images": [
@@ -44474,7 +44474,7 @@
     "price": 28,
     "masterold_id": "25720029"
   },
-  "primary_categoryold_id": "womens-jewelry-earrings",
+  "primary_category_id": "womens-jewelry-earrings",
   "image_groups": [
     {
       "images": [
@@ -44622,7 +44622,7 @@
     "price": 49,
     "masterold_id": "25696513"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -44843,7 +44843,7 @@
     "price": 73.99,
     "masterold_id": "25762759"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -45088,7 +45088,7 @@
     "price": 59,
     "masterold_id": "25688302"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -45341,7 +45341,7 @@
     "price": 99,
     "masterold_id": "25592897"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -45579,7 +45579,7 @@
     "price": 119,
     "masterold_id": "25697368"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -45805,7 +45805,7 @@
     "price": 114,
     "masterold_id": "25696559"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -46057,7 +46057,7 @@
     "price": 189,
     "masterold_id": "25592990"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -46294,7 +46294,7 @@
     "price": 39,
     "masterold_id": "25566016"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -46533,7 +46533,7 @@
     "price": 74,
     "masterold_id": "25589556"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -46756,7 +46756,7 @@
     "price": 74,
     "masterold_id": "25589587"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -46977,7 +46977,7 @@
     "price": 65.99,
     "masterold_id": "25502296"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -47329,7 +47329,7 @@
     "price": 75,
     "masterold_id": "25050736"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -47582,7 +47582,7 @@
     "price": 33.99,
     "masterold_id": "25564405"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -47854,7 +47854,7 @@
     "price": 25,
     "masterold_id": "25565250"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -48816,7 +48816,7 @@
     "price": 61.99,
     "masterold_id": "25502346"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -49017,7 +49017,7 @@
     "price": 69,
     "masterold_id": "25518647"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -49247,7 +49247,7 @@
     "price": 64.99,
     "masterold_id": "25502452"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -49469,7 +49469,7 @@
     "price": 99,
     "masterold_id": "25589644"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -49815,7 +49815,7 @@
     "price": 34,
     "masterold_id": "22951021"
   },
-  "primary_categoryold_id": "womens-accessories-scarves",
+  "primary_category_id": "womens-accessories-scarves",
   "image_groups": [
     {
       "images": [
@@ -50228,7 +50228,7 @@
     "price": 74,
     "masterold_id": "25592518"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -50502,7 +50502,7 @@
     "price": 40,
     "masterold_id": "25448070"
   },
-  "primary_categoryold_id": "womens-jewlery-bracelets",
+  "primary_category_id": "womens-jewlery-bracelets",
   "image_groups": [
     {
       "images": [
@@ -50664,7 +50664,7 @@
     "price": 80.99,
     "masterold_id": "25589059"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -50887,7 +50887,7 @@
     "price": 59,
     "masterold_id": "25113204"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -51338,7 +51338,7 @@
     "price": 54,
     "masterold_id": "25593647"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -51848,7 +51848,7 @@
     "price": 39.99,
     "masterold_id": "25518210"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -52438,7 +52438,7 @@
     "price": 74,
     "masterold_id": "25591540"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -52617,7 +52617,7 @@
     "price": 32,
     "masterold_id": "25695189"
   },
-  "primary_categoryold_id": "womens-jewelry-earrings",
+  "primary_category_id": "womens-jewelry-earrings",
   "image_groups": [
     {
       "images": [
@@ -52779,7 +52779,7 @@
     "price": 163.99,
     "masterold_id": "25589128"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -53007,7 +53007,7 @@
     "price": 74,
     "masterold_id": "25591608"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -53186,7 +53186,7 @@
     "price": 40,
     "masterold_id": "25720050"
   },
-  "primary_categoryold_id": "womens-jewlery-bracelets",
+  "primary_category_id": "womens-jewlery-bracelets",
   "image_groups": [
     {
       "images": [
@@ -53349,7 +53349,7 @@
     "price": 82.99,
     "masterold_id": "25493613"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -53598,7 +53598,7 @@
     "price": 58.99,
     "masterold_id": "25502881"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -53815,7 +53815,7 @@
     "price": 89.99,
     "masterold_id": "25502992"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -54022,7 +54022,7 @@
     "price": 33.99,
     "masterold_id": "25518916"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -54232,7 +54232,7 @@
     "price": 30,
     "masterold_id": "25565055"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -54451,7 +54451,7 @@
     "price": 74,
     "masterold_id": "25565563"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -54685,7 +54685,7 @@
     "price": 149,
     "masterold_id": "25593411"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -55065,7 +55065,7 @@
     "price": 89,
     "masterold_id": "25593301"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -55546,7 +55546,7 @@
     "price": 103.99,
     "masterold_id": "25591072"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -55751,7 +55751,7 @@
     "price": 47.99,
     "masterold_id": "25518944"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -55956,7 +55956,7 @@
     "price": 145.99,
     "masterold_id": "25591111"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -56167,7 +56167,7 @@
     "price": 89,
     "masterold_id": "25697133"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -56474,7 +56474,7 @@
     "price": 68.99,
     "masterold_id": "25503070"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -56680,7 +56680,7 @@
     "price": 40.99,
     "masterold_id": "25591125"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -56895,7 +56895,7 @@
     "price": 52.99,
     "masterold_id": "25501133"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -57106,7 +57106,7 @@
     "price": 79,
     "masterold_id": "25565671"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -57330,7 +57330,7 @@
     "price": 82.99,
     "masterold_id": "25501802"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -57540,7 +57540,7 @@
     "price": 38.99,
     "masterold_id": "25517787"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -57761,7 +57761,7 @@
     "price": 80.99,
     "masterold_id": "25502027"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -58015,7 +58015,7 @@
     "price": 73.99,
     "masterold_id": "25502038"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -58269,7 +58269,7 @@
     "price": 69,
     "masterold_id": "25565178"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -58511,7 +58511,7 @@
     "price": 74,
     "masterold_id": "25565804"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -58690,7 +58690,7 @@
     "price": 36,
     "masterold_id": "25720057"
   },
-  "primary_categoryold_id": "womens-jewlery-bracelets",
+  "primary_category_id": "womens-jewlery-bracelets",
   "image_groups": [
     {
       "images": [
@@ -58837,7 +58837,7 @@
     "price": 109,
     "masterold_id": "25593066"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -59021,7 +59021,7 @@
     "price": 38,
     "masterold_id": "25599659"
   },
-  "primary_categoryold_id": "womens-jewlery-bracelets",
+  "primary_category_id": "womens-jewlery-bracelets",
   "image_groups": [
     {
       "images": [
@@ -59204,7 +59204,7 @@
     "price": 89,
     "masterold_id": "25772707"
   },
-  "primary_categoryold_id": "womens-accessories-shoes",
+  "primary_category_id": "womens-accessories-shoes",
   "image_groups": [
     {
       "images": [
@@ -59454,7 +59454,7 @@
     "price": 74,
     "masterold_id": "25697561"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -59674,7 +59674,7 @@
     "price": 79,
     "masterold_id": "25593086"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -59922,7 +59922,7 @@
     "price": 148,
     "masterold_id": "25688608"
   },
-  "primary_categoryold_id": "womens-clothing-dresses",
+  "primary_category_id": "womens-clothing-dresses",
   "image_groups": [
     {
       "images": [
@@ -60157,7 +60157,7 @@
     "price": 69,
     "masterold_id": "25697578"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -60405,7 +60405,7 @@
     "price": 95.99,
     "masterold_id": "25629003"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -60613,7 +60613,7 @@
     "price": 84.99,
     "masterold_id": "25629011"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -60839,7 +60839,7 @@
     "price": 109,
     "masterold_id": "25697639"
   },
-  "primary_categoryold_id": "womens-clothing-dresses",
+  "primary_category_id": "womens-clothing-dresses",
   "image_groups": [
     {
       "images": [
@@ -61092,7 +61092,7 @@
     "price": 79,
     "masterold_id": "25592434"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -61324,7 +61324,7 @@
     "price": 109,
     "masterold_id": "25593174"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -61534,7 +61534,7 @@
     "price": 129,
     "masterold_id": "25593179"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -61750,7 +61750,7 @@
     "price": 39,
     "masterold_id": "25695217"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -61984,7 +61984,7 @@
     "price": 118,
     "masterold_id": "25642181"
   },
-  "primary_categoryold_id": "womens-clothing-dresses",
+  "primary_category_id": "womens-clothing-dresses",
   "image_groups": [
     {
       "images": [
@@ -62222,7 +62222,7 @@
     "price": 59,
     "masterold_id": "25695242"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -62437,7 +62437,7 @@
     "price": 89,
     "masterold_id": "25697748"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -62642,7 +62642,7 @@
     "price": 59,
     "masterold_id": "25592547"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -62863,7 +62863,7 @@
     "price": 69,
     "masterold_id": "25695366"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -63121,7 +63121,7 @@
     "price": 49,
     "masterold_id": "25720115"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -63358,7 +63358,7 @@
     "price": 79,
     "masterold_id": "25720370"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -63568,7 +63568,7 @@
     "price": 89,
     "masterold_id": "25592604"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -63779,7 +63779,7 @@
     "price": 79,
     "masterold_id": "25695456"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -64000,7 +64000,7 @@
     "price": 65,
     "masterold_id": "25697087"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -64206,7 +64206,7 @@
     "price": 20,
     "masterold_id": "25720018"
   },
-  "primary_categoryold_id": "womens-jewelry-earrings",
+  "primary_category_id": "womens-jewelry-earrings",
   "image_groups": [
     {
       "images": [
@@ -64327,7 +64327,7 @@
     "price": 24,
     "masterold_id": "25720024"
   },
-  "primary_categoryold_id": "womens-jewelry-earrings",
+  "primary_category_id": "womens-jewelry-earrings",
   "image_groups": [
     {
       "images": [
@@ -64475,7 +64475,7 @@
     "price": 99,
     "masterold_id": "25697184"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -64695,7 +64695,7 @@
     "price": 219,
     "masterold_id": "25592827"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -64927,7 +64927,7 @@
     "price": 180,
     "masterold_id": "25762724"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -65148,7 +65148,7 @@
     "price": 99,
     "masterold_id": "25592870"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -65359,7 +65359,7 @@
     "price": 38,
     "masterold_id": "25594785"
   },
-  "primary_categoryold_id": "womens-accessories-scarves",
+  "primary_category_id": "womens-accessories-scarves",
   "image_groups": [
     {
       "images": [
@@ -65481,7 +65481,7 @@
     "price": 45,
     "masterold_id": "25720035"
   },
-  "primary_categoryold_id": "womens-jewelry-necklaces",
+  "primary_category_id": "womens-jewelry-necklaces",
   "image_groups": [
     {
       "images": [
@@ -65602,7 +65602,7 @@
     "price": 68,
     "masterold_id": "25599638"
   },
-  "primary_categoryold_id": "womens-jewelry-necklaces",
+  "primary_category_id": "womens-jewelry-necklaces",
   "image_groups": [
     {
       "images": [
@@ -65775,7 +65775,7 @@
     "price": 49,
     "masterold_id": "25771193"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -65981,7 +65981,7 @@
     "price": 38,
     "masterold_id": "25720052"
   },
-  "primary_categoryold_id": "womens-jewlery-bracelets",
+  "primary_category_id": "womens-jewlery-bracelets",
   "image_groups": [
     {
       "images": [
@@ -66144,7 +66144,7 @@
     "price": 99,
     "masterold_id": "25696614"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -66401,7 +66401,7 @@
     "price": 69,
     "masterold_id": "25148430"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -66877,7 +66877,7 @@
     "price": 50.99,
     "masterold_id": "25545725"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -67075,7 +67075,7 @@
     "price": 148.99,
     "masterold_id": "25502154"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -67307,7 +67307,7 @@
     "price": 119,
     "masterold_id": "25589582"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -67508,7 +67508,7 @@
     "price": 95.99,
     "masterold_id": "25502228"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -67728,7 +67728,7 @@
     "price": 75,
     "masterold_id": "25050730"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -67958,7 +67958,7 @@
     "price": 69,
     "masterold_id": "25564543"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -68200,7 +68200,7 @@
     "price": 79,
     "masterold_id": "25565432"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -68420,7 +68420,7 @@
     "price": 155.99,
     "masterold_id": "25589040"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -68687,7 +68687,7 @@
     "price": 59,
     "masterold_id": "25591494"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -68939,7 +68939,7 @@
     "price": 76.99,
     "masterold_id": "25502608"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -69175,7 +69175,7 @@
     "price": 25,
     "masterold_id": "25565284"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -70117,7 +70117,7 @@
     "price": 40.99,
     "masterold_id": "25518729"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -70337,7 +70337,7 @@
     "price": 54.99,
     "masterold_id": "25589067"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -70579,7 +70579,7 @@
     "price": 30.99,
     "masterold_id": "25502192"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -70899,7 +70899,7 @@
     "price": 49,
     "masterold_id": "25565460"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -71153,7 +71153,7 @@
     "price": 49,
     "masterold_id": "25591679"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -71378,7 +71378,7 @@
     "price": 30,
     "masterold_id": "25564930"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -71764,7 +71764,7 @@
     "price": 103.99,
     "masterold_id": "25564754"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -71969,7 +71969,7 @@
     "price": 40.99,
     "masterold_id": "25564777"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -72179,7 +72179,7 @@
     "price": 47.99,
     "masterold_id": "25590921"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -72405,7 +72405,7 @@
     "price": 73.99,
     "masterold_id": "25589139"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -72748,7 +72748,7 @@
     "price": 46.99,
     "masterold_id": "25502848"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -72982,7 +72982,7 @@
     "price": 47.99,
     "masterold_id": "25564860"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -73192,7 +73192,7 @@
     "price": 88.99,
     "masterold_id": "25589196"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -73403,7 +73403,7 @@
     "price": 59,
     "masterold_id": "25589355"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -73771,7 +73771,7 @@
     "price": 54.99,
     "masterold_id": "25564882"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -74002,7 +74002,7 @@
     "price": 54.99,
     "masterold_id": "25590995"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -74402,7 +74402,7 @@
     "price": 49,
     "masterold_id": "25695683"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -74708,7 +74708,7 @@
     "price": 69,
     "masterold_id": "25565094"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -74928,7 +74928,7 @@
     "price": 54,
     "masterold_id": "25565622"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -75157,7 +75157,7 @@
     "price": 65.99,
     "masterold_id": "25589397"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -75368,7 +75368,7 @@
     "price": 59,
     "masterold_id": "25697713"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -75668,7 +75668,7 @@
     "price": 43.99,
     "masterold_id": "25591139"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -75879,7 +75879,7 @@
     "price": 64.99,
     "masterold_id": "25503110"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -76066,7 +76066,7 @@
   "price": 38.99,
   "id": "spring-look",
   "currency": "USD",
-  "primary_categoryold_id": "womens-outfits",
+  "primary_category_id": "womens-outfits",
   "image_groups": [
     {
       "images": [
@@ -76157,7 +76157,7 @@
     "price": 47.99,
     "masterold_id": "25591144"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -76359,7 +76359,7 @@
     "price": 65.99,
     "masterold_id": "25589444"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -76591,7 +76591,7 @@
     "price": 54.99,
     "masterold_id": "25591149"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -76801,7 +76801,7 @@
     "price": 89.99,
     "masterold_id": "25519044"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -77012,7 +77012,7 @@
     "price": 69,
     "masterold_id": "25565115"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -77231,7 +77231,7 @@
     "price": 79,
     "masterold_id": "25565121"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -77450,7 +77450,7 @@
     "price": 89,
     "masterold_id": "25565687"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -77664,7 +77664,7 @@
     "price": 129,
     "masterold_id": "25592360"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -77869,7 +77869,7 @@
     "price": 34.99,
     "masterold_id": "25517896"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -78079,7 +78079,7 @@
     "price": 149,
     "masterold_id": "25565133"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -78293,7 +78293,7 @@
     "price": 54.99,
     "masterold_id": "25591227"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -78503,7 +78503,7 @@
     "price": 109,
     "masterold_id": "25592365"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -78724,7 +78724,7 @@
     "price": 69,
     "masterold_id": "25565162"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -78971,7 +78971,7 @@
     "price": 219,
     "masterold_id": "25593032"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -79224,7 +79224,7 @@
     "price": 149,
     "masterold_id": "25696638"
   },
-  "primary_categoryold_id": "womens-clothing-dresses",
+  "primary_category_id": "womens-clothing-dresses",
   "image_groups": [
     {
       "images": [
@@ -79472,7 +79472,7 @@
     "price": 159,
     "masterold_id": "25696630"
   },
-  "primary_categoryold_id": "womens-clothing-dresses",
+  "primary_category_id": "womens-clothing-dresses",
   "image_groups": [
     {
       "images": [
@@ -79719,7 +79719,7 @@
     "price": 179,
     "masterold_id": "25696653"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -79967,7 +79967,7 @@
     "price": 99,
     "masterold_id": "25696661"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -80204,7 +80204,7 @@
     "price": 99,
     "masterold_id": "25593154"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -80414,7 +80414,7 @@
     "price": 79,
     "masterold_id": "25695202"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -80644,7 +80644,7 @@
     "price": 149,
     "masterold_id": "25696693"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -80851,7 +80851,7 @@
     "price": 36,
     "masterold_id": "25720074"
   },
-  "primary_categoryold_id": "womens-jewelry-necklaces",
+  "primary_category_id": "womens-jewelry-necklaces",
   "image_groups": [
     {
       "images": [
@@ -81004,7 +81004,7 @@
     "price": 44,
     "masterold_id": "25695305"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -81214,7 +81214,7 @@
     "price": 64,
     "masterold_id": "25592509"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -81434,7 +81434,7 @@
     "price": 163.99,
     "masterold_id": "25642399"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -81653,7 +81653,7 @@
     "price": 89,
     "masterold_id": "25642441"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -81841,7 +81841,7 @@
     "price": 54,
     "masterold_id": "25592599"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -82082,7 +82082,7 @@
     "price": 74,
     "masterold_id": "25592613"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -82329,7 +82329,7 @@
     "price": 148,
     "masterold_id": "25593518"
   },
-  "primary_categoryold_id": "womens-clothing-dresses",
+  "primary_category_id": "womens-clothing-dresses",
   "image_groups": [
     {
       "images": [
@@ -82562,7 +82562,7 @@
     "price": 119,
     "masterold_id": "25697151"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -82741,7 +82741,7 @@
     "price": 38,
     "masterold_id": "25720022"
   },
-  "primary_categoryold_id": "womens-jewlery-bracelets",
+  "primary_category_id": "womens-jewlery-bracelets",
   "image_groups": [
     {
       "images": [
@@ -82899,7 +82899,7 @@
     "price": 49,
     "masterold_id": "25695479"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -83083,7 +83083,7 @@
     "price": 34,
     "masterold_id": "25594776"
   },
-  "primary_categoryold_id": "womens-accessories-scarves",
+  "primary_category_id": "womens-accessories-scarves",
   "image_groups": [
     {
       "images": [
@@ -83297,7 +83297,7 @@
     "price": 189,
     "masterold_id": "25592886"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -83546,7 +83546,7 @@
     "price": 59,
     "masterold_id": "25767778"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -83804,7 +83804,7 @@
     "price": 49,
     "masterold_id": "25771084"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -84052,7 +84052,7 @@
     "price": 149,
     "masterold_id": "25696598"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -84300,7 +84300,7 @@
     "price": 114,
     "masterold_id": "25593016"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -84516,7 +84516,7 @@
     "price": 109,
     "masterold_id": "25688473"
   },
-  "primary_categoryold_id": "womens-clothing-dresses",
+  "primary_category_id": "womens-clothing-dresses",
   "image_groups": [
     {
       "images": [
@@ -84741,7 +84741,7 @@
     "price": 59,
     "masterold_id": "25697378"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -84920,7 +84920,7 @@
     "price": 42,
     "masterold_id": "25534894"
   },
-  "primary_categoryold_id": "womens-jewelry-necklaces",
+  "primary_category_id": "womens-jewelry-necklaces",
   "image_groups": [
     {
       "images": [
@@ -85041,7 +85041,7 @@
     "price": 34,
     "masterold_id": "25534903"
   },
-  "primary_categoryold_id": "womens-jewlery-bracelets",
+  "primary_category_id": "womens-jewlery-bracelets",
   "image_groups": [
     {
       "images": [
@@ -85248,7 +85248,7 @@
     "price": 21.99,
     "masterold_id": "25419334"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -85515,7 +85515,7 @@
     "price": 79,
     "masterold_id": "25553417"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -85829,7 +85829,7 @@
     "price": 28.99,
     "masterold_id": "25493587"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -86151,7 +86151,7 @@
     "price": 52.99,
     "masterold_id": "25501952"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -86472,7 +86472,7 @@
     "price": 118,
     "masterold_id": "25503585"
   },
-  "primary_categoryold_id": "womens-clothing-dresses",
+  "primary_category_id": "womens-clothing-dresses",
   "image_groups": [
     {
       "images": [
@@ -86814,7 +86814,7 @@
     "price": 40.99,
     "masterold_id": "25518484"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -87034,7 +87034,7 @@
     "price": 47.99,
     "masterold_id": "25564896"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -87349,7 +87349,7 @@
     "price": 148.99,
     "masterold_id": "25591418"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -87587,7 +87587,7 @@
     "price": 69,
     "masterold_id": "25518637"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -87823,7 +87823,7 @@
     "price": 73.99,
     "masterold_id": "25591410"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -88070,7 +88070,7 @@
     "price": 73.99,
     "masterold_id": "25589712"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -88293,7 +88293,7 @@
     "price": 88.99,
     "masterold_id": "25591530"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -88499,7 +88499,7 @@
     "price": 82.99,
     "masterold_id": "25502603"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -88707,7 +88707,7 @@
     "price": 49,
     "masterold_id": "25565443"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -88922,7 +88922,7 @@
     "price": 68.99,
     "masterold_id": "25493665"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -89243,7 +89243,7 @@
     "price": 39.99,
     "masterold_id": "25517934"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -89681,7 +89681,7 @@
     "price": 20,
     "masterold_id": "25490259"
   },
-  "primary_categoryold_id": "womens-jewelry-earrings",
+  "primary_category_id": "womens-jewelry-earrings",
   "image_groups": [
     {
       "images": [
@@ -89828,7 +89828,7 @@
     "price": 64,
     "masterold_id": "25565696"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -90048,7 +90048,7 @@
     "price": 158,
     "masterold_id": "25591704"
   },
-  "primary_categoryold_id": "womens-clothing-dresses",
+  "primary_category_id": "womens-clothing-dresses",
   "image_groups": [
     {
       "images": [
@@ -90295,7 +90295,7 @@
     "price": 138.99,
     "masterold_id": "25493635"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -90533,7 +90533,7 @@
     "price": 54.99,
     "masterold_id": "25518911"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -90760,7 +90760,7 @@
     "price": 109,
     "masterold_id": "25591911"
   },
-  "primary_categoryold_id": "womens-clothing-dresses",
+  "primary_category_id": "womens-clothing-dresses",
   "image_groups": [
     {
       "images": [
@@ -91008,7 +91008,7 @@
     "price": 68.99,
     "masterold_id": "25493717"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -91245,7 +91245,7 @@
     "price": 89,
     "masterold_id": "25565082"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -91469,7 +91469,7 @@
     "price": 69,
     "masterold_id": "25565599"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -91703,7 +91703,7 @@
     "price": 110.99,
     "masterold_id": "25591116"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -91961,7 +91961,7 @@
     "price": 128,
     "masterold_id": "25688632"
   },
-  "primary_categoryold_id": "womens-clothing-dresses",
+  "primary_category_id": "womens-clothing-dresses",
   "image_groups": [
     {
       "images": [
@@ -92316,7 +92316,7 @@
     "price": 124.99,
     "masterold_id": "25519002"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -92522,7 +92522,7 @@
     "price": 40.99,
     "masterold_id": "25519010"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -92732,7 +92732,7 @@
     "price": 40.99,
     "masterold_id": "25519027"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -92938,7 +92938,7 @@
     "price": 50.99,
     "masterold_id": "25519039"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -93164,7 +93164,7 @@
     "price": 89,
     "masterold_id": "25565639"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -93384,7 +93384,7 @@
     "price": 89.99,
     "masterold_id": "25519058"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -93590,7 +93590,7 @@
     "price": 59,
     "masterold_id": "25565770"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -93810,7 +93810,7 @@
     "price": 219,
     "masterold_id": "25589489"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -94058,7 +94058,7 @@
     "price": 114,
     "masterold_id": "25589526"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -94255,7 +94255,7 @@
     "price": 26,
     "masterold_id": "25720054"
   },
-  "primary_categoryold_id": "womens-jewelry-earrings",
+  "primary_category_id": "womens-jewelry-earrings",
   "image_groups": [
     {
       "images": [
@@ -94422,7 +94422,7 @@
     "price": 25.99,
     "masterold_id": "25518123"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -94792,7 +94792,7 @@
     "price": 24,
     "masterold_id": "25720069"
   },
-  "primary_categoryold_id": "womens-jewelry-earrings",
+  "primary_category_id": "womens-jewelry-earrings",
   "image_groups": [
     {
       "images": [
@@ -94960,7 +94960,7 @@
     "price": 79,
     "masterold_id": "25697630"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -95229,7 +95229,7 @@
     "price": 110,
     "masterold_id": "25778945"
   },
-  "primary_categoryold_id": "womens-accessories-shoes",
+  "primary_category_id": "womens-accessories-shoes",
   "image_groups": [
     {
       "images": [
@@ -95503,7 +95503,7 @@
     "price": 148.99,
     "masterold_id": "25629026"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -95750,7 +95750,7 @@
     "price": 148.99,
     "masterold_id": "25629037"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -95994,7 +95994,7 @@
     "price": 89,
     "masterold_id": "25697659"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -96246,7 +96246,7 @@
     "price": 129,
     "masterold_id": "25592479"
   },
-  "primary_categoryold_id": "womens-clothing-dresses",
+  "primary_category_id": "womens-clothing-dresses",
   "image_groups": [
     {
       "images": [
@@ -96480,7 +96480,7 @@
     "price": 44,
     "masterold_id": "25695327"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -96690,7 +96690,7 @@
     "price": 79,
     "masterold_id": "25720361"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -96896,7 +96896,7 @@
     "price": 79,
     "masterold_id": "25695451"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -97107,7 +97107,7 @@
     "price": 49,
     "masterold_id": "25697843"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -97328,7 +97328,7 @@
     "price": 138,
     "masterold_id": "25744346"
   },
-  "primary_categoryold_id": "womens-clothing-dresses",
+  "primary_category_id": "womens-clothing-dresses",
   "image_groups": [
     {
       "images": [
@@ -97571,7 +97571,7 @@
     "price": 64,
     "masterold_id": "25695701"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -97776,7 +97776,7 @@
     "price": 163.99,
     "masterold_id": "25754137"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -97955,7 +97955,7 @@
     "price": 99,
     "masterold_id": "25696521"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -98134,7 +98134,7 @@
     "price": 28,
     "masterold_id": "25720031"
   },
-  "primary_categoryold_id": "womens-jewelry-necklaces",
+  "primary_category_id": "womens-jewelry-necklaces",
   "image_groups": [
     {
       "images": [
@@ -98287,7 +98287,7 @@
     "price": 74,
     "masterold_id": "25697294"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -98466,7 +98466,7 @@
     "price": 45,
     "masterold_id": "25599636"
   },
-  "primary_categoryold_id": "womens-jewelry-necklaces",
+  "primary_category_id": "womens-jewelry-necklaces",
   "image_groups": [
     {
       "images": [
@@ -98588,7 +98588,7 @@
     "price": 38,
     "masterold_id": "25720044"
   },
-  "primary_categoryold_id": "womens-jewelry-necklaces",
+  "primary_category_id": "womens-jewelry-necklaces",
   "image_groups": [
     {
       "images": [
@@ -98761,7 +98761,7 @@
     "price": 54,
     "masterold_id": "25771138"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -99000,7 +99000,7 @@
     "price": 89,
     "masterold_id": "25696606"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -99247,7 +99247,7 @@
     "price": 128,
     "masterold_id": "25688454"
   },
-  "primary_categoryold_id": "womens-clothing-dresses",
+  "primary_category_id": "womens-clothing-dresses",
   "image_groups": [
     {
       "images": [
@@ -99479,7 +99479,7 @@
     "price": 64,
     "masterold_id": "25592386"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -99699,7 +99699,7 @@
     "price": 128,
     "masterold_id": "25771342"
   },
-  "primary_categoryold_id": "womens-clothing-dresses",
+  "primary_category_id": "womens-clothing-dresses",
   "image_groups": [
     {
       "images": [
@@ -99937,7 +99937,7 @@
     "price": 43.99,
     "masterold_id": "25502134"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -100139,7 +100139,7 @@
     "price": 47.99,
     "masterold_id": "25518344"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -100345,7 +100345,7 @@
     "price": 103.99,
     "masterold_id": "25502177"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -100585,7 +100585,7 @@
     "price": 14.99,
     "masterold_id": "25419639"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -100954,7 +100954,7 @@
     "price": 46.99,
     "masterold_id": "25518174"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -101285,7 +101285,7 @@
     "price": 54.99,
     "masterold_id": "25518958"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -101650,7 +101650,7 @@
     "price": 48.99,
     "masterold_id": "25413129"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -101875,7 +101875,7 @@
     "price": 29,
     "masterold_id": "25519274"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -102406,7 +102406,7 @@
     "price": 80.99,
     "masterold_id": "25502266"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -102617,7 +102617,7 @@
     "price": 59,
     "masterold_id": "25565409"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -102847,7 +102847,7 @@
     "price": 73.99,
     "masterold_id": "25589004"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -103094,7 +103094,7 @@
     "price": 47.99,
     "masterold_id": "25589636"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -103273,7 +103273,7 @@
     "price": 24,
     "masterold_id": "25448068"
   },
-  "primary_categoryold_id": "womens-jewelry-earrings",
+  "primary_category_id": "womens-jewelry-earrings",
   "image_groups": [
     {
       "images": [
@@ -103436,7 +103436,7 @@
     "price": 73.99,
     "masterold_id": "25591434"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -103660,7 +103660,7 @@
     "price": 49,
     "masterold_id": "25564566"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -103890,7 +103890,7 @@
     "price": 61.99,
     "masterold_id": "25493571"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -104400,7 +104400,7 @@
     "price": 34.99,
     "masterold_id": "25518058"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -104801,7 +104801,7 @@
     "price": 82.99,
     "masterold_id": "25502629"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -105013,7 +105013,7 @@
     "price": 34.99,
     "masterold_id": "25502655"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -105238,7 +105238,7 @@
     "price": 199,
     "masterold_id": "25553369"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -105568,7 +105568,7 @@
     "price": 47.99,
     "masterold_id": "25590891"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -105805,7 +105805,7 @@
     "price": 61.99,
     "masterold_id": "25518795"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -106025,7 +106025,7 @@
     "price": 59,
     "masterold_id": "25565139"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -106368,7 +106368,7 @@
     "price": 139,
     "masterold_id": "25697499"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -106727,7 +106727,7 @@
     "price": 119,
     "masterold_id": "25565498"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -106947,7 +106947,7 @@
     "price": 89,
     "masterold_id": "25589335"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -107253,7 +107253,7 @@
     "price": 79,
     "masterold_id": "25591617"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -107674,7 +107674,7 @@
     "price": 99,
     "masterold_id": "25589652"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -108151,7 +108151,7 @@
     "price": 43.99,
     "masterold_id": "25518921"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -108357,7 +108357,7 @@
     "price": 89,
     "masterold_id": "25565553"
   },
-  "primary_categoryold_id": "womens-clothing-dresses",
+  "primary_category_id": "womens-clothing-dresses",
   "image_groups": [
     {
       "images": [
@@ -108562,7 +108562,7 @@
     "price": 88.99,
     "masterold_id": "25589225"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -108767,7 +108767,7 @@
     "price": 75.99,
     "masterold_id": "25493689"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -108987,7 +108987,7 @@
     "price": 79,
     "masterold_id": "25589283"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -109197,7 +109197,7 @@
     "price": 69,
     "masterold_id": "25697203"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -109503,7 +109503,7 @@
     "price": 96.99,
     "masterold_id": "25503098"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -109724,7 +109724,7 @@
     "price": 89,
     "masterold_id": "25720817"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -110140,7 +110140,7 @@
     "price": 180,
     "masterold_id": "25762732"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -110593,7 +110593,7 @@
     "price": 99,
     "masterold_id": "25772717"
   },
-  "primary_categoryold_id": "womens-accessories-shoes",
+  "primary_category_id": "womens-accessories-shoes",
   "image_groups": [
     {
       "images": [
@@ -110971,7 +110971,7 @@
     "price": 68.99,
     "masterold_id": "25519083"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -111176,7 +111176,7 @@
     "price": 64,
     "masterold_id": "25565775"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -111355,7 +111355,7 @@
     "price": 30,
     "masterold_id": "25599647"
   },
-  "primary_categoryold_id": "womens-jewelry-earrings",
+  "primary_category_id": "womens-jewelry-earrings",
   "image_groups": [
     {
       "images": [
@@ -111507,7 +111507,7 @@
     "price": 14.99,
     "masterold_id": "25519349"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -111736,7 +111736,7 @@
     "price": 109,
     "masterold_id": "25688523"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -111948,7 +111948,7 @@
     "price": 109,
     "masterold_id": "25688536"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -112217,7 +112217,7 @@
     "price": 99,
     "masterold_id": "25772766"
   },
-  "primary_categoryold_id": "womens-accessories-shoes",
+  "primary_category_id": "womens-accessories-shoes",
   "image_groups": [
     {
       "images": [
@@ -112491,7 +112491,7 @@
     "price": 209,
     "masterold_id": "25593111"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -112705,7 +112705,7 @@
     "price": 74,
     "masterold_id": "25593169"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -112947,7 +112947,7 @@
     "price": 99,
     "masterold_id": "25772779"
   },
-  "primary_categoryold_id": "womens-accessories-shoes",
+  "primary_category_id": "womens-accessories-shoes",
   "image_groups": [
     {
       "images": [
@@ -113212,7 +113212,7 @@
     "price": 119,
     "masterold_id": "25696685"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -113455,7 +113455,7 @@
     "price": 59,
     "masterold_id": "25695231"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -113695,7 +113695,7 @@
     "price": 74,
     "masterold_id": "25592452"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -113901,7 +113901,7 @@
     "price": 36,
     "masterold_id": "25720076"
   },
-  "primary_categoryold_id": "womens-jewelry-necklaces",
+  "primary_category_id": "womens-jewelry-necklaces",
   "image_groups": [
     {
       "images": [
@@ -114063,7 +114063,7 @@
     "price": 199,
     "masterold_id": "25642173"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -114310,7 +114310,7 @@
     "price": 139,
     "masterold_id": "25642296"
   },
-  "primary_categoryold_id": "womens-clothing-dresses",
+  "primary_category_id": "womens-clothing-dresses",
   "image_groups": [
     {
       "images": [
@@ -114568,7 +114568,7 @@
     "price": 59,
     "masterold_id": "25697782"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -114787,7 +114787,7 @@
     "price": 64,
     "masterold_id": "25720352"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -115013,7 +115013,7 @@
     "price": 109,
     "masterold_id": "25592590"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -115271,7 +115271,7 @@
     "price": 59,
     "masterold_id": "25696994"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -115477,7 +115477,7 @@
     "price": 18,
     "masterold_id": "25720016"
   },
-  "primary_categoryold_id": "womens-jewelry-earrings",
+  "primary_category_id": "womens-jewelry-earrings",
   "image_groups": [
     {
       "images": [
@@ -115629,7 +115629,7 @@
     "price": 59,
     "masterold_id": "25720898"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -115850,7 +115850,7 @@
     "price": 99,
     "masterold_id": "25592742"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -116071,7 +116071,7 @@
     "price": 34,
     "masterold_id": "25594754"
   },
-  "primary_categoryold_id": "womens-accessories-scarves",
+  "primary_category_id": "womens-accessories-scarves",
   "image_groups": [
     {
       "images": [
@@ -116271,7 +116271,7 @@
     "price": 54,
     "masterold_id": "25695696"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -116507,7 +116507,7 @@
     "price": 59,
     "masterold_id": "25688190"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -116755,7 +116755,7 @@
     "price": 129,
     "masterold_id": "25697241"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -117003,7 +117003,7 @@
     "price": 64,
     "masterold_id": "25697266"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -117182,7 +117182,7 @@
     "price": 30,
     "masterold_id": "25599632"
   },
-  "primary_categoryold_id": "womens-jewelry-earrings",
+  "primary_category_id": "womens-jewelry-earrings",
   "image_groups": [
     {
       "images": [
@@ -117344,7 +117344,7 @@
     "price": 219,
     "masterold_id": "25592954"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -117587,7 +117587,7 @@
     "price": 128,
     "masterold_id": "25688443"
   },
-  "primary_categoryold_id": "womens-clothing-dresses",
+  "primary_category_id": "womens-clothing-dresses",
   "image_groups": [
     {
       "images": [
@@ -117845,7 +117845,7 @@
     "price": 54,
     "masterold_id": "25771221"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -118069,7 +118069,7 @@
     "price": 119,
     "masterold_id": "25697387"
   },
-  "primary_categoryold_id": "womens-clothing-dresses",
+  "primary_category_id": "womens-clothing-dresses",
   "image_groups": [
     {
       "images": [
@@ -118248,7 +118248,7 @@
     "price": 20,
     "masterold_id": "25534901"
   },
-  "primary_categoryold_id": "womens-jewelry-earrings",
+  "primary_category_id": "womens-jewelry-earrings",
   "image_groups": [
     {
       "images": [
@@ -118410,7 +118410,7 @@
     "price": 58.99,
     "masterold_id": "25502108"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -118630,7 +118630,7 @@
     "price": 155.99,
     "masterold_id": "25591385"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -118883,7 +118883,7 @@
     "price": 89,
     "masterold_id": "25553432"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -119145,7 +119145,7 @@
     "price": 39,
     "masterold_id": "25566028"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -119588,7 +119588,7 @@
     "price": 110.99,
     "masterold_id": "25591426"
   },
-  "primary_categoryold_id": "womens-clothing-dresses",
+  "primary_category_id": "womens-clothing-dresses",
   "image_groups": [
     {
       "images": [
@@ -119804,7 +119804,7 @@
     "price": 169,
     "masterold_id": "25553447"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -120051,7 +120051,7 @@
     "price": 44,
     "masterold_id": "25448064"
   },
-  "primary_categoryold_id": "womens-jewelry-necklaces",
+  "primary_category_id": "womens-jewelry-necklaces",
   "image_groups": [
     {
       "images": [
@@ -120204,7 +120204,7 @@
     "price": 69,
     "masterold_id": "25518704"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -120439,7 +120439,7 @@
     "price": 69,
     "masterold_id": "25565572"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -120758,7 +120758,7 @@
     "price": 47.99,
     "masterold_id": "25518710"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -120974,7 +120974,7 @@
     "price": 74,
     "masterold_id": "25565418"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -121188,7 +121188,7 @@
     "price": 129,
     "masterold_id": "25589753"
   },
-  "primary_categoryold_id": "womens-clothing-dresses",
+  "primary_category_id": "womens-clothing-dresses",
   "image_groups": [
     {
       "images": [
@@ -121408,7 +121408,7 @@
     "price": 49,
     "masterold_id": "25564680"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -121614,7 +121614,7 @@
     "price": 40.99,
     "masterold_id": "25518724"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -121826,7 +121826,7 @@
     "price": 69,
     "masterold_id": "25565454"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -122051,7 +122051,7 @@
     "price": 95.98,
     "masterold_id": "25502284"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -122456,7 +122456,7 @@
     "price": 64,
     "masterold_id": "25592653"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -122757,7 +122757,7 @@
     "price": 109,
     "masterold_id": "25589795"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -122978,7 +122978,7 @@
     "price": 103.99,
     "masterold_id": "25590848"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -123240,7 +123240,7 @@
     "price": 149,
     "masterold_id": "25593119"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -123594,7 +123594,7 @@
     "price": 47.99,
     "masterold_id": "25564723"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -123825,7 +123825,7 @@
     "price": 24,
     "masterold_id": "25519318"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -124492,7 +124492,7 @@
     "price": 49,
     "masterold_id": "25688156"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -124984,7 +124984,7 @@
     "price": 139,
     "masterold_id": "25696717"
   },
-  "primary_categoryold_id": "womens-clothing-dresses",
+  "primary_category_id": "womens-clothing-dresses",
   "image_groups": [
     {
       "images": [
@@ -125221,7 +125221,7 @@
     "price": 89,
     "masterold_id": "25565492"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -125441,7 +125441,7 @@
     "price": 99,
     "masterold_id": "25697194"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -125761,7 +125761,7 @@
     "price": 35,
     "masterold_id": "25565315"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -126080,7 +126080,7 @@
     "price": 64.99,
     "masterold_id": "25502718"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -126292,7 +126292,7 @@
     "price": 43.99,
     "masterold_id": "25590960"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -126498,7 +126498,7 @@
     "price": 54.99,
     "masterold_id": "25518897"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -126709,7 +126709,7 @@
     "price": 109,
     "masterold_id": "25565540"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -126944,7 +126944,7 @@
     "price": 59,
     "masterold_id": "25591862"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -127191,7 +127191,7 @@
     "price": 61.99,
     "masterold_id": "25493657"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -127433,7 +127433,7 @@
     "price": 74,
     "masterold_id": "25593215"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -127753,7 +127753,7 @@
     "price": 189,
     "masterold_id": "25592838"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -128112,7 +128112,7 @@
     "price": 89,
     "masterold_id": "25565610"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -128331,7 +128331,7 @@
     "price": 79,
     "masterold_id": "25565100"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -128561,7 +128561,7 @@
     "price": 14.99,
     "masterold_id": "25518328"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -128905,7 +128905,7 @@
     "price": 58.99,
     "masterold_id": "25501032"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -129496,7 +129496,7 @@
     "price": 109,
     "masterold_id": "25697392"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -129701,7 +129701,7 @@
     "price": 109,
     "masterold_id": "25771402"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -129880,7 +129880,7 @@
     "price": 30,
     "masterold_id": "25720059"
   },
-  "primary_categoryold_id": "womens-jewelry-necklaces",
+  "primary_category_id": "womens-jewelry-necklaces",
   "image_groups": [
     {
       "images": [
@@ -130001,7 +130001,7 @@
     "price": 26,
     "masterold_id": "25720061"
   },
-  "primary_categoryold_id": "womens-jewelry-earrings",
+  "primary_category_id": "womens-jewelry-earrings",
   "image_groups": [
     {
       "images": [
@@ -130163,7 +130163,7 @@
     "price": 209,
     "masterold_id": "25696669"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -130369,7 +130369,7 @@
     "price": 24,
     "masterold_id": "25720063"
   },
-  "primary_categoryold_id": "womens-jewelry-earrings",
+  "primary_category_id": "womens-jewelry-earrings",
   "image_groups": [
     {
       "images": [
@@ -130557,7 +130557,7 @@
     "price": 99,
     "masterold_id": "25772741"
   },
-  "primary_categoryold_id": "womens-accessories-shoes",
+  "primary_category_id": "womens-accessories-shoes",
   "image_groups": [
     {
       "images": [
@@ -130790,7 +130790,7 @@
     "price": 20,
     "masterold_id": "25695193"
   },
-  "primary_categoryold_id": "womens-jewelry-earrings",
+  "primary_category_id": "womens-jewelry-earrings",
   "image_groups": [
     {
       "images": [
@@ -130938,7 +130938,7 @@
     "price": 69,
     "masterold_id": "25697651"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -131169,7 +131169,7 @@
     "price": 74,
     "masterold_id": "25592443"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -131443,7 +131443,7 @@
     "price": 29,
     "masterold_id": "25688228"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -131920,7 +131920,7 @@
     "price": 89,
     "masterold_id": "25593277"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -132125,7 +132125,7 @@
     "price": 69,
     "masterold_id": "25697756"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -132346,7 +132346,7 @@
     "price": 129,
     "masterold_id": "25696881"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -132604,7 +132604,7 @@
     "price": 74,
     "masterold_id": "25697791"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -132857,7 +132857,7 @@
     "price": 129,
     "masterold_id": "25697800"
   },
-  "primary_categoryold_id": "womens-clothing-dresses",
+  "primary_category_id": "womens-clothing-dresses",
   "image_groups": [
     {
       "images": [
@@ -133104,7 +133104,7 @@
     "price": 128,
     "masterold_id": "25593507"
   },
-  "primary_categoryold_id": "womens-clothing-dresses",
+  "primary_category_id": "womens-clothing-dresses",
   "image_groups": [
     {
       "images": [
@@ -133337,7 +133337,7 @@
     "price": 69,
     "masterold_id": "25695441"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -133553,7 +133553,7 @@
     "price": 79,
     "masterold_id": "25697095"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -133758,7 +133758,7 @@
     "price": 54,
     "masterold_id": "25720842"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -133989,7 +133989,7 @@
     "price": 79,
     "masterold_id": "25698039"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -134232,7 +134232,7 @@
     "price": 89,
     "masterold_id": "25695461"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -134457,7 +134457,7 @@
     "price": 118,
     "masterold_id": "25593727"
   },
-  "primary_categoryold_id": "womens-clothing-dresses",
+  "primary_category_id": "womens-clothing-dresses",
   "image_groups": [
     {
       "images": [
@@ -134695,7 +134695,7 @@
     "price": 39,
     "masterold_id": "25695601"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -134924,7 +134924,7 @@
     "price": 65,
     "masterold_id": "25697176"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -135130,7 +135130,7 @@
     "price": 28,
     "masterold_id": "25599634"
   },
-  "primary_categoryold_id": "womens-jewelry-earrings",
+  "primary_category_id": "womens-jewelry-earrings",
   "image_groups": [
     {
       "images": [
@@ -135292,7 +135292,7 @@
     "price": 89,
     "masterold_id": "25592946"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -135539,7 +135539,7 @@
     "price": 189,
     "masterold_id": "25696529"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -135746,7 +135746,7 @@
     "price": 26,
     "masterold_id": "25720042"
   },
-  "primary_categoryold_id": "womens-jewelry-earrings",
+  "primary_category_id": "womens-jewelry-earrings",
   "image_groups": [
     {
       "images": [
@@ -135908,7 +135908,7 @@
     "price": 209,
     "masterold_id": "25592965"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -136114,7 +136114,7 @@
     "price": 60,
     "masterold_id": "25599640"
   },
-  "primary_categoryold_id": "womens-jewlery-bracelets",
+  "primary_category_id": "womens-jewlery-bracelets",
   "image_groups": [
     {
       "images": [
@@ -136306,7 +136306,7 @@
     "price": 89,
     "masterold_id": "25771381"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -136553,7 +136553,7 @@
     "price": 155.99,
     "masterold_id": "25591331"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -136811,7 +136811,7 @@
     "price": 89,
     "masterold_id": "25328702"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -137176,7 +137176,7 @@
     "price": 44,
     "masterold_id": "25565199"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -137461,7 +137461,7 @@
     "price": 155.99,
     "masterold_id": "25591339"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -137703,7 +137703,7 @@
     "price": 65.99,
     "masterold_id": "25502240"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -137913,7 +137913,7 @@
     "price": 30,
     "masterold_id": "25565334"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -138127,7 +138127,7 @@
     "price": 99,
     "masterold_id": "25589592"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -138388,7 +138388,7 @@
     "price": 14.99,
     "masterold_id": "25517823"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -139241,7 +139241,7 @@
     "price": 129,
     "masterold_id": "25589602"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -139467,7 +139467,7 @@
     "price": 40.99,
     "masterold_id": "25518837"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -139979,7 +139979,7 @@
     "price": 73.99,
     "masterold_id": "25588993"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -140226,7 +140226,7 @@
     "price": 30,
     "masterold_id": "25565935"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -140622,7 +140622,7 @@
     "price": 18,
     "masterold_id": "25448066"
   },
-  "primary_categoryold_id": "womens-jewelry-earrings",
+  "primary_category_id": "womens-jewelry-earrings",
   "image_groups": [
     {
       "images": [
@@ -140785,7 +140785,7 @@
     "price": 95.99,
     "masterold_id": "25591445"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -141023,7 +141023,7 @@
     "price": 46.99,
     "masterold_id": "25517972"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -141345,7 +141345,7 @@
     "price": 114,
     "masterold_id": "25592703"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -141688,7 +141688,7 @@
     "price": 38,
     "masterold_id": "25594767"
   },
-  "primary_categoryold_id": "womens-accessories-scarves",
+  "primary_category_id": "womens-accessories-scarves",
   "image_groups": [
     {
       "images": [
@@ -142012,7 +142012,7 @@
     "price": 89,
     "masterold_id": "25593429"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -142331,7 +142331,7 @@
     "price": 20,
     "masterold_id": "25492705"
   },
-  "primary_categoryold_id": "womens-jewelry-earrings",
+  "primary_category_id": "womens-jewelry-earrings",
   "image_groups": [
     {
       "images": [
@@ -142483,7 +142483,7 @@
     "price": 119,
     "masterold_id": "25565477"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -142713,7 +142713,7 @@
     "price": 47.99,
     "masterold_id": "25518746"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -142957,7 +142957,7 @@
     "price": 47.99,
     "masterold_id": "25519105"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -143274,7 +143274,7 @@
     "price": 33.99,
     "masterold_id": "25519358"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -143675,7 +143675,7 @@
     "price": 82.99,
     "masterold_id": "25590900"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -143901,7 +143901,7 @@
     "price": 99,
     "masterold_id": "25553402"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -144253,7 +144253,7 @@
     "price": 80.99,
     "masterold_id": "25589157"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -144497,7 +144497,7 @@
     "price": 168,
     "masterold_id": "25591766"
   },
-  "primary_categoryold_id": "womens-clothing-dresses",
+  "primary_category_id": "womens-clothing-dresses",
   "image_groups": [
     {
       "images": [
@@ -144755,7 +144755,7 @@
     "price": 79,
     "masterold_id": "25697587"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -145109,7 +145109,7 @@
     "price": 54.99,
     "masterold_id": "25590981"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -145314,7 +145314,7 @@
     "price": 80.99,
     "masterold_id": "25589220"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -145535,7 +145535,7 @@
     "price": 75.99,
     "masterold_id": "25493646"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -145742,7 +145742,7 @@
     "price": 36,
     "masterold_id": "25599651"
   },
-  "primary_categoryold_id": "womens-jewlery-bracelets",
+  "primary_category_id": "womens-jewlery-bracelets",
   "image_groups": [
     {
       "images": [
@@ -145889,7 +145889,7 @@
     "price": 149,
     "masterold_id": "25592075"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -146095,7 +146095,7 @@
     "price": 82.99,
     "masterold_id": "25503032"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -146311,7 +146311,7 @@
     "price": 117.99,
     "masterold_id": "25518983"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -146531,7 +146531,7 @@
     "price": 128,
     "masterold_id": "25592200"
   },
-  "primary_categoryold_id": "womens-clothing-dresses",
+  "primary_category_id": "womens-clothing-dresses",
   "image_groups": [
     {
       "images": [
@@ -146764,7 +146764,7 @@
     "price": 50.99,
     "masterold_id": "25503055"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -146975,7 +146975,7 @@
     "price": 89,
     "masterold_id": "25565616"
   },
-  "primary_categoryold_id": "womens-clothing-dresses",
+  "primary_category_id": "womens-clothing-dresses",
   "image_groups": [
     {
       "images": [
@@ -147186,7 +147186,7 @@
     "price": 110.99,
     "masterold_id": "25589408"
   },
-  "primary_categoryold_id": "womens-clothing-dresses",
+  "primary_category_id": "womens-clothing-dresses",
   "image_groups": [
     {
       "images": [
@@ -147414,7 +147414,7 @@
     "price": 79,
     "masterold_id": "25565106"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -147643,7 +147643,7 @@
     "price": 131.99,
     "masterold_id": "25501623"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -147891,7 +147891,7 @@
     "price": 73.99,
     "masterold_id": "25589419"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -148123,7 +148123,7 @@
     "price": 40.99,
     "masterold_id": "25517958"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -148339,7 +148339,7 @@
     "price": 79,
     "masterold_id": "25519088"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -148560,7 +148560,7 @@
     "price": 209,
     "masterold_id": "25589500"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -148808,7 +148808,7 @@
     "price": 43.99,
     "masterold_id": "25518009"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -149060,7 +149060,7 @@
     "price": 47.99,
     "masterold_id": "25522219"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -149277,7 +149277,7 @@
     "price": 99,
     "masterold_id": "25565789"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -149525,7 +149525,7 @@
     "price": 99,
     "masterold_id": "25589534"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -149773,7 +149773,7 @@
     "price": 114,
     "masterold_id": "25593024"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -150006,7 +150006,7 @@
     "price": 64,
     "masterold_id": "25697544"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -150227,7 +150227,7 @@
     "price": 89,
     "masterold_id": "25696677"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -150415,7 +150415,7 @@
   "price": 39,
   "id": "Spring-look-2",
   "currency": "USD",
-  "primary_categoryold_id": "womens-outfits",
+  "primary_category_id": "womens-outfits",
   "image_groups": [
     {
       "images": [
@@ -150542,7 +150542,7 @@
     "price": 79,
     "masterold_id": "25772792"
   },
-  "primary_categoryold_id": "womens-accessories-shoes",
+  "primary_category_id": "womens-accessories-shoes",
   "image_groups": [
     {
       "images": [
@@ -150811,7 +150811,7 @@
     "price": 89,
     "masterold_id": "25593188"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -151017,7 +151017,7 @@
     "price": 119,
     "masterold_id": "25593249"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -151237,7 +151237,7 @@
     "price": 199,
     "masterold_id": "25696848"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -151485,7 +151485,7 @@
     "price": 129,
     "masterold_id": "25696873"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -151732,7 +151732,7 @@
     "price": 129,
     "masterold_id": "25696889"
   },
-  "primary_categoryold_id": "womens-clothing-jackets",
+  "primary_category_id": "womens-clothing-jackets",
   "image_groups": [
     {
       "images": [
@@ -151969,7 +151969,7 @@
     "price": 49,
     "masterold_id": "25593676"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -152175,7 +152175,7 @@
     "price": 119,
     "masterold_id": "25697212"
   },
-  "primary_categoryold_id": "womens-clothing-dresses",
+  "primary_category_id": "womens-clothing-dresses",
   "image_groups": [
     {
       "images": [
@@ -152355,7 +152355,7 @@
     "price": 30,
     "masterold_id": "25720033"
   },
-  "primary_categoryold_id": "womens-jewelry-earrings",
+  "primary_category_id": "womens-jewelry-earrings",
   "image_groups": [
     {
       "images": [
@@ -152543,7 +152543,7 @@
     "price": 59,
     "masterold_id": "25688271"
   },
-  "primary_categoryold_id": "womens-clothing-bottoms",
+  "primary_category_id": "womens-clothing-bottoms",
   "image_groups": [
     {
       "images": [
@@ -152776,7 +152776,7 @@
     "price": 74,
     "masterold_id": "25697279"
   },
-  "primary_categoryold_id": "womens-clothing-tops",
+  "primary_category_id": "womens-clothing-tops",
   "image_groups": [
     {
       "images": [
@@ -152956,7 +152956,7 @@
     "price": 38,
     "masterold_id": "25720037"
   },
-  "primary_categoryold_id": "womens-jewlery-bracelets",
+  "primary_category_id": "womens-jewlery-bracelets",
   "image_groups": [
     {
       "images": [
@@ -153078,7 +153078,7 @@
     "price": 10,
     "masterold_id": "25599642"
   },
-  "primary_categoryold_id": "womens-jewelry-earrings",
+  "primary_category_id": "womens-jewelry-earrings",
   "image_groups": [
     {
       "images": [

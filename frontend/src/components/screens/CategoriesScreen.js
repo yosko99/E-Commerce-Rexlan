@@ -1,5 +1,6 @@
+import categoriesProperties from '../../resources/default/screens/categoriesProperties';
 import { categoryListAction } from '../../actions/categoryActions';
-import { Container, Image, Row, Col } from 'react-bootstrap';
+import { Container, Image, Row, Col, Button } from 'react-bootstrap';
 import { useDispatch, useSelector } from 'react-redux';
 import { LinkContainer } from 'react-router-bootstrap';
 import { useParams, Navigate } from 'react-router-dom';
@@ -23,17 +24,22 @@ const CategoriesScreen = () => {
         ? <Loading />
         : error
           ? <Navigate to={'/404'}/>
-          : <div className='pt-2'>
-              <h4>{categories.page_title}</h4>
-              <p>{categories.page_description}</p>
-              <Image fluid src={'/images/' + categories.image} alt={categories.id}/>
+          : <div className='my-4'>
+              <h4 className='text-center'>{categories.page_title}</h4>
+              <p className='text-center'>{categories.page_description}</p>
+              <Image className='mb-4' fluid src={'/images/' + categories.image} alt={categories.id}/>
               <Row className='my-2'>
                 {categories.categories.map((category, index) => (
-                  <Col key={index + 1} md={12} lg={6} className='my-2'>
-                      <p className='mt-3 fs-5'>{category.page_title}</p>
-                      <LinkContainer to={'/products/category/' + category.id} role='button'>
+                  <Col key={index + 1} lg={12} className='my-2'>
+                      <p className='fs-5'>{category.page_title}</p>
+                      <div className='d-flex justify-content-center'>
                         <Image fluid src={'/images/' + category.image} alt={category.id} />
+                      </div>
+                      <p className='mt-3'>{category.page_description}</p>
+                      <LinkContainer to={'/products/category/' + category.id} role='button'>
+                        <Button variant="info" style={{ fontSize: '1.2em' }}>{categoriesProperties.categoryBtn}</Button>
                       </LinkContainer>
+                      <hr className='bg-success'/>
                     </Col>
                 ))}
               </Row>

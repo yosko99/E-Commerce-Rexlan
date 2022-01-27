@@ -34,6 +34,7 @@ const productSchema = new Schema({
   },
   primary_category_id: {
     type: String,
+    required: true
   },
   image_groups: {
     type: Array,

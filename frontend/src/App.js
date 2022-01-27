@@ -15,7 +15,7 @@ function App () {
           <Routes>
             <Route path='/' exact element={<HomeScreen />}/>
             <Route path='/category/:subcategory' element={<CategoriesScreen />}/>
-            <Route path='/products/' element={<ProductsScreen />}/>
+            <Route path='/products/category/:subcategory' element={<ProductsScreen />}/>
             <Route path='*' exact element={<Screen404 />}/>
           </Routes>
         </main>

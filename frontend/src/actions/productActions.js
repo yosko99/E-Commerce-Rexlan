@@ -1,4 +1,11 @@
-import { PRODUCT_LIST_REQUEST, PRODUCT_LIST_SUCCESS, PRODUCT_LIST_FAIL } from '../constants/productConstants';
+import {
+  PRODUCT_LIST_REQUEST,
+  PRODUCT_LIST_SUCCESS,
+  PRODUCT_LIST_FAIL,
+  PRODUCT_LIST_FILTERED_REQUEST,
+  PRODUCT_LIST_FILTERED_SUCCESS,
+  PRODUCT_LIST_FILTERED_FAIL
+} from '../constants/productConstants';
 import axios from 'axios';
 
 export const productListAction = (qty) => async (dispatch) => {
@@ -15,6 +22,23 @@ export const productListAction = (qty) => async (dispatch) => {
   } catch (error) {
     dispatch({
       type: PRODUCT_LIST_FAIL,
+      payload: error.response && error.response.data.message ? error.response.data.message : error.message
+    });
+  }
+};
+
+export const productListFilteredAction = (subcategory, queries) => async (dispatch) => {
+  try {
+    dispatch({ type: PRODUCT_LIST_FILTERED_REQUEST });
+    const { data } = await axios.get(`/api/products/category/${subcategory}`);
+
+    dispatch({
+      type: PRODUCT_LIST_FILTERED_SUCCESS,
+      payload: data
+    });
+  } catch (error) {
+    dispatch({
+      type: PRODUCT_LIST_FILTERED_FAIL,
       payload: error.response && error.response.data.message ? error.response.data.message : error.message
     });
   }
