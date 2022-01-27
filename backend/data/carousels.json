@@ -1,24 +1,24 @@
 [
   {
-    "image": "./images/frontPage/carousel/carousel1.webp",
+    "image": "/images/frontPage/carousel/carousel1.webp",
     "carousel_title": "Women's Footwear, Outerwear, Clothing & Accessories",
     "carousel_caption": "Women's range. Fashionable and stylish Shoes, jackets and  all other clothing for unbeatable comfort day in, day out. Practical and fashionable styles wherever the occasion.",
     "is_active": true
   },
   {
-    "image": "./images/frontPage/carousel/carousel2.webp",
+    "image": "/images/frontPage/carousel/carousel2.webp",
     "carousel_title": "Womens Clothing All in Red",
     "carousel_caption": "Shop our Women's Red Store. Shirts, sweaters, knits & more all in red.",
     "is_active": false
   },
   {
-    "image": "./images/frontPage/carousel/carousel3.webp",
+    "image": "/images/frontPage/carousel/carousel3.webp",
     "carousel_title": "Men's Gloves",
     "carousel_caption": "Shop Men'sGloves. Versatile, commuter, boot, oxford, deer and resolve gloves. All with famous long-lasting quality.",
     "is_active": false
   },
   {
-    "image": "./images/frontPage/carousel/carousel4.webp",
+    "image": "/images/frontPage/carousel/carousel4.webp",
     "carousel_title": "Men's Footwear, Outerwear, Clothing & Accessories",
     "carousel_caption": "Men's range. Hard-wearing boots, jackets and clothing for unbeatable comfort day in, day out. Practical, easy-to-wear styles wherever you're headed.",
     "is_active": false

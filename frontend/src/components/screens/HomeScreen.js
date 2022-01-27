@@ -25,14 +25,14 @@ const HomeScreen = () => {
 
         {/* Women clothes */}
         <Row>
-          <LinkContainer to="/category/women-clothes" role="button">
-            <Col lg={4} md={12}><Image fluid alt='Women Clothes' src='./images/frontPage/women-grid1.webp'/></Col>
+          <LinkContainer to="/category/womens-clothing" role="button">
+            <Col lg={4} md={12}><Image fluid alt='Women Clothes' src='/images/frontPage/women-grid1.webp'/></Col>
           </LinkContainer>
-          <LinkContainer to="/category/women-clothes" role="button">
-            <Col lg={4} md={12}><Image fluid alt='Women Clothes' src='./images/frontPage/women-grid3.webp'/></Col>
+          <LinkContainer to="/category/womens-clothing" role="button">
+            <Col lg={4} md={12}><Image fluid alt='Women Clothes' src='/images/frontPage/women-grid3.webp'/></Col>
           </LinkContainer>
-          <LinkContainer to="/category/women-clothes" role="button">
-            <Col lg={4} md={12}><Image fluid alt='Women Clothes' src='./images/frontPage/women-grid2.webp'/></Col>
+          <LinkContainer to="/category/womens-clothing" role="button">
+            <Col lg={4} md={12}><Image fluid alt='Women Clothes' src='/images/frontPage/women-grid2.webp'/></Col>
           </LinkContainer>
         </Row>
         {/* Women clothes */}
@@ -40,13 +40,13 @@ const HomeScreen = () => {
         {/* Men accessories/clothes */}
         <Row className='pt-4'>
           <Col lg={6} md={12}>
-            <LinkContainer to='/category/men-accessories' role='button'>
-              <Image fluid alt='Women Clothes' src='./images/frontPage/men-accessories.webp'/>
+            <LinkContainer to='/category/mens-accessories' role='button'>
+              <Image fluid alt='Women Clothes' src='/images/frontPage/men-accessories.webp'/>
             </LinkContainer>
           </Col>
           <Col lg={6} md={12}>
-            <LinkContainer to='/category/men-clothes' role='button'>
-              <Image fluid alt='Women Clothes' src='./images/frontPage/men-clothes.webp'/>
+            <LinkContainer to='/category/mens-clothing' role='button'>
+              <Image fluid alt='Women Clothes' src='/images/frontPage/men-clothes.webp'/>
             </LinkContainer>
           </Col>
         </Row>
@@ -77,7 +77,7 @@ const HomeScreen = () => {
               <Button className='text-uppercase btn-dark w-50'>{homeProperties.viewPromotionsBtn}</Button>
             </Col>
             <Col md={6}>
-              <Image className='mb-4 pt-4' fluid src="./images/frontPage/weekly-promotions.webp" alt='Sitting woman'/>
+              <Image className='mb-4 pt-4' fluid src="/images/frontPage/weekly-promotions.webp" alt='Sitting woman'/>
             </Col>
           </Row>
         </Container>
@@ -86,7 +86,7 @@ const HomeScreen = () => {
 
       {/* Company logos */}
       <Container className='d-flex justify-content-center mt-5'>
-        <Image fluid src="./images/frontPage/companies.webp" alt='company logos'/>
+        <Image fluid src="/images/frontPage/companies.webp" alt='company logos'/>
       </Container>
       {/* Company logos */}
     </>

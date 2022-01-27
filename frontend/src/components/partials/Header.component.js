@@ -78,10 +78,10 @@ const Header = () => {
                 <LinkContainer to="/category/womens-clothing">
                   <NavDropdown.Item>{headerProperties.clothingBtn}</NavDropdown.Item>
                 </LinkContainer>
-                <LinkContainer to="/category/women-jewelry">
+                <LinkContainer to="/category/womens-jewelry">
                   <NavDropdown.Item>{headerProperties.jewelryBtn}</NavDropdown.Item>
                 </LinkContainer>
-                <LinkContainer to="/category/women-accessories">
+                <LinkContainer to="/category/womens-accessories">
                   <NavDropdown.Item>{headerProperties.accessoriesBtn}</NavDropdown.Item>
                 </LinkContainer>
               </NavDropdown>

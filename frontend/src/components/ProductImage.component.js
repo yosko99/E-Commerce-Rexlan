@@ -27,7 +27,7 @@ const ProductImage = () => {
                 <LinkContainer to={'/products/' + product.id} role='button'>
                     <Image fluid
                         alt={product.image_groups[0].images[0].alt}
-                        src={'./images/' + product.image_groups[0].images[0].link}/>
+                        src={'/images/' + product.image_groups[0].images[0].link}/>
                 </LinkContainer>
             </Col>
         ))}
