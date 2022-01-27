@@ -1,5 +1,6 @@
 const [notFound, errorHandler] = require('./middleware/errorMiddleware');
 const carouselRoutes = require('./routes/carouselRoutes');
+const categoryRoutes = require('./routes/categoryRoutes');
 const productRoutes = require('./routes/productRoutes');
 const connectDB = require('./config/db.js');
 const express = require('express');
@@ -12,6 +13,7 @@ app.use(cors());
 
 connectDB();
 
+app.use('/api/category/', categoryRoutes);
 app.use('/api/products/', productRoutes);
 app.use('/api/carousel/', carouselRoutes);
 app.use(notFound);

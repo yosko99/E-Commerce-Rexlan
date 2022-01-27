@@ -11,7 +11,6 @@ const Header = () => {
           <Navbar.Collapse id="topNavbar">
             <Nav
               className="me-auto my-lg-0"
-              style={{ maxHeight: '100px' }}
               navbarScroll
             >
               <LinkContainer to="/">

@@ -1,5 +1,5 @@
 [{
-  "_id": {
+  "old_id": {
     "$oid": "5172d1daffdd81f3234d5f88"
   },
   "categories": [
@@ -105,7 +105,7 @@
   "parent_category_id": "root",
   "c_showInMenu": true
 },{
-  "_id": {
+  "old_id": {
     "$oid": "5172d1daffdd81f3234d5f89"
   },
   "categories": [

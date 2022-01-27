@@ -28,8 +28,7 @@ const Footer = () => {
         </div>
 
         <div className="text-center p-3" style={{ backgroundColor: 'black' }}>
-            © 2022 Copyright:
-            <Link className="text-white ps-2" to="/" >Ecommerce point</Link>
+            <Link style={{ textDecoration: 'none' }} className="text-white ps-2" to="/" >© 2022 Copyright: Rexlan E-commerce</Link>
         </div>
     </footer>
   );
