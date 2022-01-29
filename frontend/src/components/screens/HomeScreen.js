@@ -1,7 +1,6 @@
 import homeProperties from '../../resources/default/screens/homeProperties.js';
 import { Col, Row, Image, Button, Container } from 'react-bootstrap';
 import { productListAction } from '../../actions/productActions.js';
-import ProductImage from '../ProductImage.component.js';
 import { LinkContainer } from 'react-router-bootstrap';
 import { useDispatch, useSelector } from 'react-redux';
 import Carousel from '../HomeCarousel.component.js';
@@ -80,7 +79,11 @@ const HomeScreen = () => {
               ? <Navigate to={'/404'}/>
               : products.map((product, index) => (
                   <Col key={index + 1} lg={2} md={4} sm={6} className='py-2'>
-                    <ProductImage product={product}/>
+                        <LinkContainer to={'/products/id/' + product.id} role='button'>
+                          <Image fluid
+                            alt={product.image_groups[0].images[0].alt}
+                            src={'/images/' + product.image_groups[0].images[0].link}/>
+                        </LinkContainer>
                   </Col>
               ))}
           </Row>

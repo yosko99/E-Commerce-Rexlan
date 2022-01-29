@@ -1,3 +1,4 @@
+import ProductDetailsScreen from './components/screens/ProductDetailsScreen.js';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import CategoriesScreen from './components/screens/CategoriesScreen.js';
 import ProductsScreen from './components/screens/ProductsScreen.js';
@@ -16,6 +17,7 @@ function App () {
             <Route path='/' exact element={<HomeScreen />}/>
             <Route path='/category/:subcategory' element={<CategoriesScreen />}/>
             <Route path='/products/category/:subcategory' element={<ProductsScreen />}/>
+            <Route path='/products/id/:id' element={<ProductDetailsScreen />}/>
             <Route path='*' exact element={<Screen404 />}/>
           </Routes>
         </main>

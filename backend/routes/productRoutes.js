@@ -26,16 +26,14 @@ router.get('/category/:subcategory', asyncHandler(async (req, res) =>{
 }));
 
 // @desc Fetch a single product by id
-// @route GET /api/products/:id
+// @route GET /api/products/id/:id
 // @access Public
 router.get('/id/:id', asyncHandler(async (req, res) =>{
     const productID = req.params.id;
 
     const product = await Product.findOne({id: productID});
 
-    res.status(200).json({
-        product,
-    })
+    res.status(200).json(product);
 }));
 
 module.exports = router;

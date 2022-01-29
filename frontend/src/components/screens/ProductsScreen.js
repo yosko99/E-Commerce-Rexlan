@@ -2,8 +2,8 @@ import { productListFilteredAction } from '../../actions/productActions';
 import { useDispatch, useSelector } from 'react-redux';
 import { useParams, Navigate } from 'react-router-dom';
 import { Container, Col, Row } from 'react-bootstrap';
-import ProductCard from '../ProductCard.component';
-import Product from '../Product.component';
+import ProductCard from '../product/ProductCard.component';
+import Product from '../product/Product.component';
 import Loading from '../Loading.component';
 import React, { useEffect } from 'react';
 

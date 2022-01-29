@@ -1,4 +1,4 @@
-import { productListReducer, productListFilteredReducer } from './reducers/productReducers';
+import { productListReducer, productListFilteredReducer, productDetailsReducer } from './reducers/productReducers';
 import { createStore, combineReducers, applyMiddleware } from 'redux';
 import { carouselListReducer } from './reducers/carouselReducers';
 import { categoryListReducer } from './reducers/categoryReducers';
@@ -7,6 +7,7 @@ import thunk from 'redux-thunk';
 
 const reducer = combineReducers({
   productListFiltered: productListFilteredReducer,
+  productDetails: productDetailsReducer,
   carouselItems: carouselListReducer,
   categoryList: categoryListReducer,
   productList: productListReducer
