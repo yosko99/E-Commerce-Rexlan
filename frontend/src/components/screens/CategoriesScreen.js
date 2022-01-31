@@ -15,6 +15,7 @@ const CategoriesScreen = () => {
   const { loading, error, categories } = categoryList;
 
   useEffect(() => {
+    window.scrollTo(0, 0);
     dispatch(categoryListAction(subcategory));
   }, [dispatch, subcategory]);
 

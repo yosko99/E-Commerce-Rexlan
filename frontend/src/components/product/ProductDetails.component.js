@@ -32,14 +32,14 @@ const ProductDetails = ({ product, productImgState, setProductImgState, sizes, s
       <Row className='my-2'>
           <Col lg={8}>
             {/* Thumbnail images */}
-              <Row style={{ height: '100%' }}>
-                  <Col lg={2} className='d-flex flex-column justify-content-center'>
+              <Row style={{ height: '100%' }} className='flex-lg-row flex-md-column-reverse flex-column-reverse'>
+                  <Col lg={2} className='d-flex flex-lg-column flex-md-row justify-content-center'>
                     {thumbnailImagesState.map((image, index) => (
                       <Image
                         style={{ width: '80px', height: '80px', objectFit: 'contain' }}
                         key={'thumbnail' + index + 1} src={'/images/' + image.link}
                         customsrc={image.link}
-                        className='my-1 me-1'
+                        className='my-2 me-2'
                         role="button"
                         onClick={(e) => { setProductImgState(e.target.getAttribute('customsrc')); }}
                         alt={image.alt}/>

@@ -15,6 +15,7 @@ const ProductsScreen = () => {
   const { products, loading, error } = productList;
 
   useEffect(() => {
+    window.scrollTo(0, 0);
     dispatch(productListFilteredAction(subcategory));
   }, [dispatch, subcategory]);
 

@@ -15,6 +15,7 @@ const ProductDetailsScreen = () => {
   const { loading, product, error } = productDetails;
 
   useEffect(() => {
+    window.scrollTo(0, 0);
     dispatch(productDetailsAction(id));
   }, [dispatch, id]);
 

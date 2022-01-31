@@ -1,12 +1,14 @@
 import homeProperties from '../../resources/default/screens/homeProperties.js';
 import { Col, Row, Image, Button, Container } from 'react-bootstrap';
 import { productListAction } from '../../actions/productActions.js';
+import ProductCard from '../product/ProductCard.component.js';
 import { LinkContainer } from 'react-router-bootstrap';
 import { useDispatch, useSelector } from 'react-redux';
+import Product from '../product/Product.component.js';
 import Carousel from '../HomeCarousel.component.js';
 import Loading from '../Loading.component.js';
-import React, { useEffect } from 'react';
 import { Navigate } from 'react-router-dom';
+import React, { useEffect } from 'react';
 
 const HomeScreen = () => {
   const dispatch = useDispatch();
@@ -14,7 +16,8 @@ const HomeScreen = () => {
   const { loading, products, error } = productList;
 
   useEffect(() => {
-    dispatch(productListAction(6));
+    window.scrollTo(0, 0);
+    dispatch(productListAction(4));
   }, [dispatch]);
   return (
     <>
@@ -78,12 +81,8 @@ const HomeScreen = () => {
             : error
               ? <Navigate to={'/404'}/>
               : products.map((product, index) => (
-                  <Col key={index + 1} lg={2} md={4} sm={6} className='py-2'>
-                        <LinkContainer to={'/products/id/' + product.id} role='button'>
-                          <Image fluid
-                            alt={product.image_groups[0].images[0].alt}
-                            src={'/images/' + product.image_groups[0].images[0].link}/>
-                        </LinkContainer>
+                  <Col key={index + 1} lg={3} md={6} sm={6} className='py-2'>
+                       <Product product={product} ProductComponent={ProductCard} />
                   </Col>
               ))}
           </Row>
