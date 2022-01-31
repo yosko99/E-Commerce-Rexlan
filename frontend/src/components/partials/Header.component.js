@@ -1,9 +1,14 @@
 import { Navbar, Container, Nav, NavDropdown, Form, FormControl, Button, Offcanvas, Image } from 'react-bootstrap';
 import headerProperties from '../../resources/default/headerProperties';
 import { LinkContainer } from 'react-router-bootstrap';
-import React from 'react';
+import React, { useState } from 'react';
 
 const Header = () => {
+  const [show, setShow] = useState(false);
+
+  const handleClose = () => setShow(false);
+  const handleShow = () => setShow(true);
+
   return (
     <>
       <Navbar bg="black" variant="dark" className='p-1' expand="lg">
@@ -56,11 +61,12 @@ const Header = () => {
               {headerProperties.brandBtn}
             </Navbar.Brand>
           </LinkContainer>
-          <Navbar.Toggle aria-controls="offcanvasNavbar" />
+          <Navbar.Toggle aria-controls="offcanvasNavbar" onClick={handleShow}/>
           <Navbar.Offcanvas
             id="offcanvasNavbar"
             aria-labelledby="offcanvasNavbarLabel"
             placement="end"
+            show={show} onHide={handleClose}
           >
             <Offcanvas.Header closeButton>
               <Offcanvas.Title id="offcanvasNavbarLabel">{headerProperties.menuText}</Offcanvas.Title>
@@ -69,21 +75,21 @@ const Header = () => {
               <Nav className="justify-content-end flex-grow-1 pe-3 mb-2">
                 <NavDropdown title={headerProperties.menText} id="menCategories">
                   <LinkContainer to="/category/mens-clothing">
-                    <NavDropdown.Item>{headerProperties.clothingBtn}</NavDropdown.Item>
+                    <NavDropdown.Item onClick={handleClose}>{headerProperties.clothingBtn}</NavDropdown.Item>
                   </LinkContainer>
                   <LinkContainer to="/category/mens-accessories">
-                    <NavDropdown.Item>{headerProperties.accessoriesBtn}</NavDropdown.Item>
+                    <NavDropdown.Item onClick={handleClose}>{headerProperties.accessoriesBtn}</NavDropdown.Item>
                   </LinkContainer>
                 </NavDropdown>
                 <NavDropdown title={headerProperties.womenText} id="womenCategories">
                   <LinkContainer to="/category/womens-clothing">
-                    <NavDropdown.Item>{headerProperties.clothingBtn}</NavDropdown.Item>
+                    <NavDropdown.Item onClick={handleClose}>{headerProperties.clothingBtn}</NavDropdown.Item>
                   </LinkContainer>
                   <LinkContainer to="/category/womens-jewelry">
-                    <NavDropdown.Item>{headerProperties.jewelryBtn}</NavDropdown.Item>
+                    <NavDropdown.Item onClick={handleClose}>{headerProperties.jewelryBtn}</NavDropdown.Item>
                   </LinkContainer>
                   <LinkContainer to="/category/womens-accessories">
-                    <NavDropdown.Item>{headerProperties.accessoriesBtn}</NavDropdown.Item>
+                    <NavDropdown.Item onClick={handleClose}>{headerProperties.accessoriesBtn}</NavDropdown.Item>
                   </LinkContainer>
                 </NavDropdown>
               </Nav>

@@ -1,6 +1,7 @@
 import homeProperties from '../../resources/default/screens/homeProperties.js';
 import { Col, Row, Image, Button, Container } from 'react-bootstrap';
 import { productListAction } from '../../actions/productActions.js';
+import { carouselItemsAction } from '../../actions/carouselActions';
 import ProductCard from '../product/ProductCard.component.js';
 import { LinkContainer } from 'react-router-bootstrap';
 import { useDispatch, useSelector } from 'react-redux';
@@ -13,16 +14,19 @@ import React, { useEffect } from 'react';
 const HomeScreen = () => {
   const dispatch = useDispatch();
   const productList = useSelector((state) => state.productList);
-  const { loading, products, error } = productList;
+  const carouselList = useSelector((state) => state.carouselItems);
+  const { loading: productsLoading, products, error: productsError } = productList;
+  const { loading: carouselLoading, carouselItems, error: carouselError } = carouselList;
 
   useEffect(() => {
     window.scrollTo(0, 0);
+    dispatch(carouselItemsAction());
     dispatch(productListAction(4));
   }, [dispatch]);
   return (
     <>
       <Container>
-        <Carousel />
+        {carouselLoading ? <Loading /> : carouselError ? <Navigate to={'/404'}/> : <Carousel carouselItems={carouselItems}/>}
 
         {/* Stay inspired */}
         <div className='text-center py-5'>
@@ -76,9 +80,9 @@ const HomeScreen = () => {
           </Row>
         </div>
         <Row className='mb-5'>
-          {loading
+          {productsLoading
             ? <Loading />
-            : error
+            : productsError
               ? <Navigate to={'/404'}/>
               : products.map((product, index) => (
                   <Col key={index + 1} lg={3} md={6} sm={6} className='py-2'>
