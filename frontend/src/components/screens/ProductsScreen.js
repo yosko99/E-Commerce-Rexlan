@@ -1,6 +1,6 @@
 import { productListFilteredAction } from '../../actions/productActions';
-import { useDispatch, useSelector } from 'react-redux';
 import { useParams, Navigate } from 'react-router-dom';
+import { useDispatch, useSelector } from 'react-redux';
 import { Container, Col, Row } from 'react-bootstrap';
 import ProductCard from '../product/ProductCard.component';
 import Product from '../product/Product.component';
@@ -12,8 +12,7 @@ const ProductsScreen = () => {
   const { subcategory } = useParams();
   const dispatch = useDispatch();
 
-  const productList = useSelector((state) => state.productListFiltered);
-  const { products, loading, error } = productList;
+  const { products, loading, error } = useSelector((state) => state.productListFiltered);
 
   useEffect(() => {
     window.scrollTo(0, 0);
@@ -37,7 +36,7 @@ const ProductsScreen = () => {
           </Col>
           <Col lg={9}>
             <Row>
-              {loading
+              {loading || loading === undefined
                 ? <Loading />
                 : error
                   ? <Navigate to={'/404'}/>
