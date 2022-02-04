@@ -65,19 +65,17 @@ const ProductDetails = ({ product, productImgState, setProductImgState, sizes, s
               <hr/>
 
               <p className='fs-5 mb-0'>{productDetailsProperties.color}</p>
-              {swatches.length > 1
-                ? (
-              <ProductSwatches swatches={swatches} onClick={(e) => (swatchesOnClick(e))}/>
-                  )
+              {swatches.length > 0
+                ? swatches.map((swatch, index) => (<ProductSwatches key={index + 1} swatch={swatch} onClick={(e) => (swatchesOnClick(e))}/>))
                 : <Button
-              className='my-2 me-2'
-              variant="outline-dark"
-              disabled>
-                -
-            </Button>}
+                    className='my-2 me-2'
+                    variant="outline-dark"
+                    disabled>
+                      -
+                  </Button>}
 
               <p className='fs-5 mb-0 mt-2'>{productDetailsProperties.size}</p>
-              <ProductSizes sizes={sizes} />
+              {sizes.map((size, index) => (<ProductSizes key={index + 1} size={size} />))}
 
               <p className='mt-2 fs-5'>{productDetailsProperties.quantity}</p>
               <div className='d-flex'>

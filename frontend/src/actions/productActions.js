@@ -33,7 +33,7 @@ export const productListAction = (qty) => async (dispatch) => {
 export const productListFilteredAction = (subcategory, queries) => async (dispatch) => {
   try {
     dispatch({ type: PRODUCT_LIST_FILTERED_REQUEST });
-    const { data } = await axios.get(`/api/products/category/${subcategory}`);
+    const { data } = await axios.get(`/api/products/category/${subcategory}?${queries && queries}`);
 
     dispatch({
       type: PRODUCT_LIST_FILTERED_SUCCESS,

@@ -13,7 +13,7 @@ const ProductCard = ({ product, productImgState, swatches, changeImg }) => {
             <Card.Img style={{ maxHeight: '30vh', objectFit: 'contain' }} variant="top" src={'/images/' + productImgState} />
           </LinkContainer>
             <Card.Body>
-                <ProductSwatches swatches={swatches} onClick={changeImg} />
+                {swatches.map((swatch, index) => (<ProductSwatches key={index + 1 } swatch={swatch} onClick={changeImg} />))}
                 <Card.Title style={{ fontSize: '1em' }}>{product.name}</Card.Title>
                 <hr/>
                 <Card.Text>{product.price} {productCardProperties.currency}</Card.Text>

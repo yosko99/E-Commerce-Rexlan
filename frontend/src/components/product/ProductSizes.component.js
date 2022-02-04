@@ -1,33 +1,55 @@
-import { Button } from 'react-bootstrap';
+import React, { useState, useEffect } from 'react';
+// import { Button } from 'react-bootstrap';
 import PropTypes from 'prop-types';
-import React from 'react';
 
-const ProductSizes = ({ sizes }) => {
+const ProductSizes = ({ size, isPressed, onClick }) => {
+  const [pressedState, setPressedState] = useState('outline-dark');
+
+  const clickedHandler = () => {
+    if (pressedState === 'outline-dark') {
+      setPressedState('dark');
+    } else {
+      setPressedState('outline-dark');
+    }
+  };
+
+  const onClickHandler = (e) => {
+    if (onClick !== undefined) {
+      onClick(e);
+    }
+    if (isPressed !== undefined) {
+      clickedHandler();
+    }
+  };
+
+  useEffect(() => {
+    if (isPressed) {
+      clickedHandler();
+    }
+  }, []);
   return (
-      <>
-      {sizes.length > 0
-        ? sizes.map((size, index) => (
-        <Button
-            key={'size' + index + 1}
-            className='my-2 me-2'
-            id={size.value}
-            variant="outline-dark"
-            disabled={!size.orderable}>
+    <>
+      <input
+        type='checkbox'
+        id={size.value}
+        value={size.value}
+        defaultChecked={isPressed}
+        name='size'
+        style={{ display: 'none' }}/>
+      <label
+        htmlFor={size.value}
+        className={`btn btn-${pressedState} my-2 me-2`}
+        onClick={(e) => onClickHandler(e)} >
                 {size.name}
-        </Button>
-        ))
-        : <Button
-          className='my-2 me-2'
-          variant="outline-dark"
-          disabled>
-            -
-        </Button>}
-      </>
+      </label>
+    </>
   );
 };
 
 ProductSizes.propTypes = {
-  sizes: PropTypes.array
+  size: PropTypes.object.isRequired,
+  isPressed: PropTypes.any,
+  onClick: PropTypes.func
 };
 
 export default ProductSizes;
