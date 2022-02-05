@@ -15,8 +15,8 @@ const Filter = () => {
   const defaultGenderValue = subcategoryURL.split('-');
   const url = `/products/category/${subcategoryURL}`;
 
+  const { products: subcategoryProducts } = useSelector((state) => state.subcategoryProductList);
   const { categories, loading: categoryLoading } = useSelector((state) => state.categoryList);
-  const { products } = useSelector((state) => state.productListFiltered);
 
   // Change main category depending on gender
   const [genderRadioState, setGenderRadioState] = useState(defaultGenderValue[0]);
@@ -36,18 +36,18 @@ const Filter = () => {
   };
 
   // Resets value to 0 and gets max price of products
-  const [currentValueState, setCurrentValueState] = useState(0);
+  const currentValueRef = useRef();
   const [maxValueState, setMaxValueState] = useState(0);
 
   const setSliderValue = () => {
-    setCurrentValueState(stripQueryFromUrl('price') || 0);
-    const maximumPrice = Math.max.apply(Math, products.map(product => product.price));
+    currentValueRef.current = stripQueryFromUrl('price')[0] || 0;
+    const maximumPrice = Math.max.apply(Math, subcategoryProducts.map(product => product.price));
     setMaxValueState(maximumPrice);
   };
 
   // Used to get current slider value
   const priceHandler = (e) => {
-    setCurrentValueState(e.target.value);
+    currentValueRef.current = e.target.value;
   };
 
   // Get unique swatches
@@ -57,7 +57,7 @@ const Filter = () => {
     const swatches = [];
     const swatchesSet = new Set();
 
-    products.forEach((product) => {
+    subcategoryProducts.forEach((product) => {
       product.image_groups.forEach((group) => {
         if (group.view_type === 'swatch' && group.variation_value !== undefined) {
           if (!swatches.includes(group.variation_value)) {
@@ -78,7 +78,7 @@ const Filter = () => {
     const sizes = [];
     const sizesSet = new Set();
 
-    products.forEach((product) => {
+    subcategoryProducts.forEach((product) => {
       const isSizeAvailable = product.variation_attributes.find((attr) => attr.id === 'size');
       if (isSizeAvailable !== undefined) {
         isSizeAvailable.values.forEach((size) => {
@@ -115,6 +115,7 @@ const Filter = () => {
     const attributes = [];
 
     const search = window.location.search.split(regEx);
+
     search.forEach((a) => {
       if (a[0] === '=') {
         const temp = a.split('&')[0];
@@ -124,11 +125,17 @@ const Filter = () => {
     return attributes;
   };
 
+  const filterOnSubmit = (e) => {
+    e.preventDefault();
+    dispatch(productListFilteredAction(subcategoryURL, '?' + getFormSubmitUrl()));
+    window.scrollTo(0, 0);
+  };
+
   useEffect(() => {
     setSliderValue();
     swatchHandler();
     sizeHandler();
-  }, [products]);
+  }, [subcategoryProducts]);
 
   useEffect(() => {
     dispatch(categoryListAction());
@@ -177,15 +184,15 @@ const Filter = () => {
       method="get"
       ref={filterFormRef}
       onChange={getFormSubmitUrl}
-      onSubmit={(e) => { e.preventDefault(); dispatch(productListFilteredAction(subcategoryURL, getFormSubmitUrl())); }}>
+      onSubmit={(e) => filterOnSubmit(e)}>
       <div>
-          <h6 className='mt-4'>Price: {currentValueState} USD</h6>
+          <h6 className='mt-4'>Price: {currentValueRef.current} USD</h6>
           <input
             type="range"
             min='0'
             name="price"
-            max={maxValueState}
-            value={currentValueState}
+            max={maxValueState + 1}
+            value={currentValueRef.current || 0}
             onChange={(e) => priceHandler(e)}
             className="form-range"/>
       </div>

@@ -1,4 +1,4 @@
-import { productListFilteredAction } from '../../actions/productActions';
+import { productListFilteredAction, subcategoryProductListAction } from '../../actions/productActions';
 import { useParams, Navigate } from 'react-router-dom';
 import { useDispatch, useSelector } from 'react-redux';
 import { Container, Col, Row } from 'react-bootstrap';
@@ -16,7 +16,8 @@ const ProductsScreen = () => {
 
   useEffect(() => {
     window.scrollTo(0, 0);
-    dispatch(productListFilteredAction(subcategory));
+    dispatch(productListFilteredAction(subcategory, window.location.search));
+    dispatch(subcategoryProductListAction(subcategory));
   }, [dispatch, subcategory]);
 
   const categoryTitle = subcategory.split('-');
@@ -41,7 +42,10 @@ const ProductsScreen = () => {
                 : error
                   ? <Navigate to={'/404'}/>
                   : products.length === 0
-                    ? <h3 className='text-center'>Sorry we could not find any product :(</h3>
+                    ? <div className='text-center'>
+                      <h3 >Sorry we could not find any product :(</h3>
+                      <p>Try tweaking some of the filters :)</p>
+                    </div>
                     : products.map((product, index) => (
                     <Col lg={4} md={6} sm={12} key={index + 1}>
                       <Product product={product} ProductComponent={ProductCard}/>

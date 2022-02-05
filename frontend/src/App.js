@@ -18,7 +18,7 @@ function App () {
             <Route path='/category/:subcategory' element={<CategoriesScreen />}/>
             <Route path='/products/category/:subcategory' element={<ProductsScreen />}/>
             <Route path='/products/id/:id' element={<ProductDetailsScreen />}/>
-            <Route path='*' exact element={<Screen404 />}/>
+            <Route path='*' element={<Screen404 />}/>
           </Routes>
         </main>
       <Footer />
