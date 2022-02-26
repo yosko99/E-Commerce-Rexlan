@@ -178,7 +178,8 @@ const Filter = () => {
               type="radio"
               id={category.id}/>
             <label className="form-check-label fs-5">{category.name}</label>
-          </div>))))}
+          </div>))))
+      }
 
     <form
       method="get"
@@ -186,7 +187,7 @@ const Filter = () => {
       onChange={getFormSubmitUrl}
       onSubmit={(e) => filterOnSubmit(e)}>
       <div>
-          <h6 className='mt-4'>Price: {currentValueRef.current} USD</h6>
+          <h6 className='mt-4'>Price less than {currentValueRef.current} USD</h6>
           <input
             type="range"
             min='0'
@@ -196,6 +197,7 @@ const Filter = () => {
             onChange={(e) => priceHandler(e)}
             className="form-range"/>
       </div>
+
       <h6 className='mt-4'>Colors</h6>
       { swatchesState.length > 0
         ? swatchesState.map((swatch, index) =>
@@ -211,13 +213,15 @@ const Filter = () => {
               -
           </Button>
       }
+
       <h6 className='mt-4'>Sizes</h6>
-      {sizesState.length > 0
+      { sizesState.length > 0
         ? sizesState.map((size, index) =>
           (<ProductSizes
             key={index + 1}
             isPressed={sizesRef.current.includes(size.value)}
-            size={size} />))
+            size={size}
+            />))
         : <Button
             className='my-2 me-2'
             variant="outline-dark"
@@ -225,9 +229,9 @@ const Filter = () => {
               -
           </Button>}
 
-          <div className='mt-4'>
-            <Button variant="info" type='submit'>Filter products</Button>
-          </div>
+        <div className='mt-4'>
+          <Button variant="info" type='submit'>Filter products</Button>
+        </div>
     </form>
     </>
 

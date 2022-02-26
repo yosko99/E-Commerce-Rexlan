@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-// import { Button } from 'react-bootstrap';
 import PropTypes from 'prop-types';
 
 const ProductSizes = ({ size, isPressed, onClick }) => {
@@ -27,6 +26,7 @@ const ProductSizes = ({ size, isPressed, onClick }) => {
       clickedHandler();
     }
   }, []);
+
   return (
     <>
       <input

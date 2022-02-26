@@ -1,13 +1,14 @@
 import { productListFilteredAction, subcategoryProductListAction } from '../../actions/productActions';
+import ProductCard from '../product/ProductCard.component';
 import { useParams, Navigate } from 'react-router-dom';
 import { useDispatch, useSelector } from 'react-redux';
 import { Container, Col, Row } from 'react-bootstrap';
-import ProductCard from '../product/ProductCard.component';
 import Product from '../product/Product.component';
+import React, { useEffect, useState } from 'react';
 import Loading from '../Loading.component';
-import React, { useEffect } from 'react';
 import Filter from '../Filter.component';
 
+import OffCanvas from '../partials/OffCanvas.component';
 const ProductsScreen = () => {
   const { subcategory } = useParams();
   const dispatch = useDispatch();
@@ -20,9 +21,12 @@ const ProductsScreen = () => {
     dispatch(subcategoryProductListAction(subcategory));
   }, [dispatch, subcategory]);
 
+  const [showFilterState, setShowFilterState] = useState((window.innerWidth < 1000));
+  window.addEventListener('resize', () => setShowFilterState(window.innerWidth < 1000));
+
   const categoryTitle = subcategory.split('-');
   return (
-      <Container>
+      <Container className='mb-3'>
         {/* Products title */}
         <div className='d-flex pt-2 text-uppercase '>
           <h3 className='me-2 mb-0'>{categoryTitle[categoryTitle.length - 1]}</h3>
@@ -33,7 +37,11 @@ const ProductsScreen = () => {
         <hr className='mt-0'/>
         <Row className='mt-2'>
           <Col lg={3}>
-            <Filter />
+            {showFilterState
+              ? <div className='d-flex justify-content-center mb-2'>
+                  <OffCanvas buttonText='Filter' title='Filters' body={<Filter/>}/>
+                </div>
+              : <Filter /> }
           </Col>
           <Col lg={9}>
             <Row>
