@@ -1,12 +1,12 @@
+import { productListFilteredAction } from '../actions/productActions';
 import ProductSwatches from './product/ProductSwatches.component';
 import { categoryListAction } from '../actions/categoryActions';
 import ProductSizes from './product/ProductSizes.component';
+import React, { useEffect, useState, useRef } from 'react';
 import { useNavigate, useParams } from 'react-router-dom';
 import { useDispatch, useSelector } from 'react-redux';
-import React, { useEffect, useState, useRef } from 'react';
 import Loading from './Loading.component';
 import { Button } from 'react-bootstrap';
-import { productListFilteredAction } from '../actions/productActions';
 
 const Filter = () => {
   const navigate = useNavigate();
