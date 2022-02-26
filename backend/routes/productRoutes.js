@@ -41,7 +41,7 @@ router.get('/filter/:subcategory', asyncHandler(async (req, res) =>{
     }
 
     if(req.query.price !== undefined) {
-        query.$and.push({'price': { $lte: Number(req.query.price) }});
+        query.$and.push({'price': { $gte: Number(req.query.price) }});
     }
     if(req.query.color !== undefined) {
         query.$and.push({'image_groups.variation_value': queryChecker(req.query.color)});

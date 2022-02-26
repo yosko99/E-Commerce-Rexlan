@@ -1,14 +1,14 @@
 import { productListFilteredAction, subcategoryProductListAction } from '../../actions/productActions';
 import ProductCard from '../product/ProductCard.component';
+import OffCanvas from '../partials/OffCanvas.component';
 import { useParams, Navigate } from 'react-router-dom';
 import { useDispatch, useSelector } from 'react-redux';
 import { Container, Col, Row } from 'react-bootstrap';
 import Product from '../product/Product.component';
 import React, { useEffect, useState } from 'react';
+import Filter from '../filter/Filter.component';
 import Loading from '../Loading.component';
-import Filter from '../Filter.component';
 
-import OffCanvas from '../partials/OffCanvas.component';
 const ProductsScreen = () => {
   const { subcategory } = useParams();
   const dispatch = useDispatch();
