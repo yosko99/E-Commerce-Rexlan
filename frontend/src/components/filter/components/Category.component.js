@@ -1,3 +1,4 @@
+import filterProperties from '../../../resources/default/filterProperties';
 import Loading from '../../Loading.component';
 import PropTypes from 'prop-types';
 import React from 'react';
@@ -5,7 +6,7 @@ import React from 'react';
 const Category = ({ categoryLoading, categories, genderHandler, genderRadioState }) => {
   return (
     <>
-    <h6 className='mt-3'>Category</h6>
+    <h6 className='mt-3'>{filterProperties.categoryLabel}</h6>
     {categoryLoading || categoryLoading === undefined
       ? <Loading height='10vh'/>
       : categories.map((category, index) => (

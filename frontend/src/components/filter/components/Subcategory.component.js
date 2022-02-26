@@ -1,8 +1,8 @@
-/* eslint-disable react/prop-types */
+import filterProperties from '../../../resources/default/filterProperties';
 import { useNavigate, useParams } from 'react-router-dom';
 import Loading from '../../Loading.component';
-// import PropTypes from 'prop-types';
 import React, { useState } from 'react';
+import PropTypes from 'prop-types';
 
 const Subcategory = ({ categoryLoading, categories, genderRadioState }) => {
   const navigate = useNavigate();
@@ -19,7 +19,7 @@ const Subcategory = ({ categoryLoading, categories, genderRadioState }) => {
 
   return (
     <>
-    <h6 className='mt-4'>Subcategory</h6>
+    <h6 className='mt-4'>{filterProperties.subcategoryLabel}</h6>
     {categoryLoading || categoryLoading === undefined
       ? <Loading height='10vh'/>
       : categories.find((category) => category.name.toLowerCase() === genderRadioState)
@@ -37,6 +37,12 @@ const Subcategory = ({ categoryLoading, categories, genderRadioState }) => {
       }
     </>
   );
+};
+
+Subcategory.propTypes = {
+  categories: PropTypes.array.isRequired,
+  genderRadioState: PropTypes.string,
+  categoryLoading: PropTypes.bool
 };
 
 export default Subcategory;

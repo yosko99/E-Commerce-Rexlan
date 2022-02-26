@@ -1,5 +1,6 @@
 import { formSubmitUrl, uniqueSizes, uniqueSwatches, stripQueryFromUrl } from './function/allFunctions';
 import { productListFilteredAction } from '../../actions/productActions';
+import filterProperties from '../../resources/default/filterProperties';
 import ProductSwatches from '../product/ProductSwatches.component';
 import { categoryListAction } from '../../actions/categoryActions';
 import ProductSizes from '../product/ProductSizes.component';
@@ -74,7 +75,7 @@ const Filter = () => {
 
   return (
     <>
-    <small className='mb-2'>Refine by</small>
+    <small className='mb-2'>{filterProperties.refine}</small>
 
     <Category
         genderRadioState={genderRadioState}
@@ -95,7 +96,7 @@ const Filter = () => {
       onChange={() => navigate(`${url}?${formSubmitUrl(filterFormRef)}`)}
       onSubmit={(e) => filterOnSubmit(e)}>
       <div>
-          <h6 className='mt-4'>Price greater than {currentValueRef.current} USD</h6>
+          <h6 className='mt-4'>{filterProperties.priceLabel} {currentValueRef.current} USD</h6>
           <input
             type="range"
             min='0'
@@ -106,7 +107,7 @@ const Filter = () => {
             className="form-range"/>
       </div>
 
-      <h6 className='mt-4'>Colors</h6>
+      <h6 className='mt-4'>{filterProperties.colorLabel}</h6>
       { swatchesState.length > 0
         ? swatchesState.map((swatch, index) =>
           (<ProductSwatches
@@ -122,7 +123,7 @@ const Filter = () => {
           </Button>
       }
 
-      <h6 className='mt-4'>Sizes</h6>
+      <h6 className='mt-4'>{filterProperties.sizeLabel}</h6>
       { sizesState.length > 0
         ? sizesState.map((size, index) =>
           (<ProductSizes
@@ -138,7 +139,7 @@ const Filter = () => {
           </Button>}
 
         <div className='mt-4'>
-          <Button variant="info" type='submit'>Filter products</Button>
+          <Button variant="info" type='submit'>{filterProperties.filterBtn}</Button>
         </div>
     </form>
     </>
